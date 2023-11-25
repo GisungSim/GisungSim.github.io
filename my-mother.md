@@ -3,6 +3,8 @@ layout: home
 permalink: /my-mother/
 ---
 
+![image](URL)
+
 My Mother: A Pillar of Strength and Resilience
 
 My mother is a remarkable woman whose journey has been marked by resilience, hard work, and an unwavering spirit. Born into a Joseonjok family, ethnic Koreans from China, she experienced hardships from a young age. Her family, seeking a better life, moved to Korea, carrying with them the hopes of escaping poverty. However, the challenges followed, and with limited education, my mother's options were constrained to menial jobs.
