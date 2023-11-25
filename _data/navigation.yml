@@ -1,5 +1,9 @@
 - title: My Story
-  url: /my-story/
+  sublinks:
+  - title: My Mother
+    url: /my-mother/
+  - title: My Father
+    url: /my-father/
 - title: Years
   url: /years/
 - title: Categories
