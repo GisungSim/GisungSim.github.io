@@ -1,4 +1,5 @@
 - title: My Story
+  url: /my-story/
   sublinks:
   - title: My Mother
     url: /my-mother/
@@ -8,5 +9,10 @@
   url: /research-experiment/
 - title: Talks
   url: /talks/
+  sublinks:
+  - title: oral presentations
+    url: /oral-presentations/
+  - title: poster presentations
+    url: /poster-presentations/
 - title: CV
   url: /CV/
