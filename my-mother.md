@@ -7,7 +7,8 @@ published: true
 <figure style="width: 85%" class="align-center">
   <img src="/assets/images/mother-1.jpg" alt="">
 </figure>
-|
+
+
 **My Mother: A Pillar of Strength and Resilience**
 
 My mother is not just a parent to me; she is the epitome of resilience and determination. Born into challenging circumstances as a Joseonjok in China, her life was a journey marked by hardship and perseverance. Her grandparents, seeking escape from poverty under Japanese colonial rule, fled to China. But the poverty followed them.
