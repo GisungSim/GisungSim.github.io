@@ -11,7 +11,7 @@ My mother is not just a parent to me; she is the epitome of resilience and deter
 
 Despite these adversities, however, my mother's spirit remained unbroken.
 
-She, alongside her mother and sister, moved to Korea, driven by the hope of a better life, the 'Korean Dream'. But the dream was not without its trials. With limited education, having only completed junior high, she faced jobs that were often undervalued and underpaid. Yet, she never let these experiences define her or dampen her spirit.
+She, alongside her mother and sister, moved to Korea, driven by the hope of a better life—the 'Korean Dream'. But the dream was not without its trials. With limited education, having only completed junior high, she faced jobs that were often undervalued and underpaid. These included working at a factory's assembly line and serving as a dishwasher and waitress. Yet, she never let these experiences define her or dampen her spirit.
 
 Her resilience is something that deeply inspires me. In a society where Joseonjok people often face discrimination and prejudice, she stood tall and unyielding. Despite speaking with a heavy accent, she worked tirelessly, transcending barriers, to become a licensed hairdresser and eventually the proud owner of her own hair salon. Her journey is a testament to the power of hard work and the belief in oneself.
 
