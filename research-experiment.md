@@ -22,6 +22,9 @@ I measured around 6 dB of intensity-difference squeezing, which means the noise 
   <figcaption>Geometry of the experiment and schematic of the double-lambda system.</figcaption>
 </figure>
 
+In this experiment, I used the double-lambda system of the D1 transition of ^85^Rb.
+
+
 <p style="font-size: 24px;">The Process of Generating Squeezed States</p>
 
 In my research, I focused on generating two-mode squeezed light from rubidium vapor – a first using atomic vapor in Korea. The process begins with preparing rubidium atoms in a specific quantum state. We then use precisely controlled lasers to interact with these atoms. During this interaction, the properties of the light (like phase and amplitude) undergo quantum fluctuations, and through careful manipulation, we squeeze these fluctuations in one property while expanding them in the other. This results in a light source with unique quantum properties, ideal for high-precision measurements.
