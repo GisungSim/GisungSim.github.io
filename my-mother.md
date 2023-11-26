@@ -27,6 +27,11 @@ Her resilience is something that deeply inspires me. In a society where Joseonjo
 
 Her clients adore her, not just for her skills, but for the warmth and acceptance she radiates. This acceptance is something she's instilled in me as well. She taught me the importance of embracing our identities, no matter how different they may be perceived by society. She showed me that often, discrimination stems from ignorance and that understanding and exposure can bridge divides.
 
-My mother's story is not just a narrative of overcoming odds; it's a lesson in compassion, tenacity, and the unwavering pursuit of one's dreams. She is a living example that challenges, no matter how daunting, can be overcome with perseverance and a positive outlook.
+My mother's story is not just a narrative of overcoming hardships; it's a lesson in compassion, tenacity, and the unwavering pursuit of one's dreams. She is a living example that challenges, no matter how daunting, can be overcome with perseverance and a positive outlook.
 
 She's my greatest inspiration, a beacon of hope, and a reminder that our circumstances do not define us, but our actions and choices do. Her life is a beautiful illustration of how embracing our uniqueness and working hard can lead to a life of fulfillment and success.
+
+<figure style="width: 85%" class="align-center">
+  <img src="/assets/images/mother-3.png" alt="">
+  <figcaption>Photo with my mother at my graduation; the moment she longed for, for a long time.</figcaption>
+</figure>
