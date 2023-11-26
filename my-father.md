@@ -16,7 +16,7 @@ Throughout his life, my father embraced various jobs, often labeled as '3D' – 
 
 <figure style="width: 50%" class="align-center">
   <img src="/assets/images/father-2.jpg" alt="">
-  <figcaption>The World's best bus driver who I respect the most.</figcaption>
+  <figcaption>The world's best bus driver, whom I respect the most.</figcaption>
 </figure>
 
 
@@ -27,3 +27,11 @@ My father's journey, marked by hardships and setbacks, is a narrative of unwaver
 He has shown me the true value of hard work and dedication. Waking up at 2 AM to start his workday by 3 AM, he has never taken a day off, embodying a work ethic that is nothing short of inspiring. Through his actions, he has taught me that steadfast commitment and a strong will can create a foundation of stability and security, even in the most challenging circumstances.
 
 My father is more than just a provider; he is a pillar of strength, a beacon of hope, and a living example of how perseverance can transform the trials of life into triumphs. His life story is not just a narrative of survival but an enduring lesson on the power of resilience and the unyielding pursuit of a better life for those you love.
+
+<figure style="width: 50%" class="align-center">
+  <img src="/assets/images/father-3.jpg" alt="">
+</figure>
+
+<figure style="width: 50%" class="align-center">
+  <img src="/assets/images/father-4.jpg" alt="">
+</figure>
