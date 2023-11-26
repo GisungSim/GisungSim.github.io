@@ -4,4 +4,4 @@ permalink: /CV/
 published: true
 ---
 
-[Download my CV](/files/Gisung's_CV.pdf)
+[Download my CV](assets/files/Gisung's_CV.pdf)
