@@ -5,7 +5,7 @@ published: true
 ---
 
 <figure style="width: 50%" class="align-center">
-  <img src="/assets/images/father-1.png" alt="">
+  <img src="/assets/images/father-1.jpg" alt="">
 </figure>
 
 **Steadfast Guardian: The Resilient Journey of My Father**
@@ -15,7 +15,7 @@ My father's life story is a profound testament to the power of dedication and th
 Throughout his life, my father embraced various jobs, often labeled as '3D' – difficult, dangerous, and demeaning. From being a delivery man to a street vendor, he confronted each day with a resilience that I have come to admire deeply. His current role as a bus driver, though demanding with 12-hour non-stop shifts, is a source of pride for him. This job, unlike his previous ones, offers the comfort of an air-conditioned environment and, more importantly, a steady paycheck.
 
 <figure style="width: 50%" class="align-center">
-  <img src="/assets/images/father-2.png" alt="">
+  <img src="/assets/images/father-2.jpg" alt="">
   <figcaption>The World's best bus driver who I respect the most.</figcaption>
 </figure>
 
