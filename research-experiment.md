@@ -4,7 +4,7 @@ permalink: /research-experiment/
 published: true
 ---
 
-<p style="font-size: 10px;">**Exploring the Quantum Frontier: The Generation of Squeezed States**</p>
+<p style="font-size: 30px;">Exploring the Quantum Frontier: The Generation of Squeezed States</b></p>
 
 My Journey into Quantum Optics
 
