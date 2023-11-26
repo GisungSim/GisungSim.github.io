@@ -24,6 +24,11 @@ I measured around 6 dB of intensity-difference squeezing, which means the noise 
 
 In this experiment, I used the double-lambda system of the D1 transition of <sup>85</sup>Rb. Using this scheme, we can circumvent fundamental limitations for efficient squeezing such as spontaneous emission [C. F. McCormick _et al_. PRA 78, 043816 (2008)].
 
+<figure style="width: 90%" class="align-center">
+  <img src="/assets/images/squeezing-3.png" alt="">
+  <figcaption>(left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
+</figure>
+
 <p style="font-size: 24px;">Overcoming Challenges</p>
 
 The path to this discovery was not straightforward. My lab had never before conducted research on squeezed states, especially using atomic vapor. I encountered numerous challenges – from overwhelming noise in the lab that initially made experiments seem impossible, to issues with laser power, equipment malfunctions, and even fluctuations in the four-wave mixing signal. Each obstacle was a lesson in persistence and innovation. Through rigorous testing, assumption analysis, and problem-solving, I was able to overcome these hurdles.
