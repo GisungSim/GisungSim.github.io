@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /my-mother/
+published: true
 ---
 
 <figure style="width: 85%" class="align-center">
