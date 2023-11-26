@@ -10,7 +10,10 @@ published: true
 
 With hard effort and trials and errors, I have successfully generated a two-mode squeezed state of light from four-wave mixing!
 
-
+<figure style="width: 80%" class="align-center">
+  <img src="/assets/images/squeezing-1.jpg" alt="">
+  <figcaption>(left) Intensity difference squeezing at 100 kHz. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
+</figure>
 
 
 <p style="font-size: 24px;">The Process of Generating Squeezed States</p>
