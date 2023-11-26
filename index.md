@@ -16,7 +16,7 @@ But the list of my interest is even longer. I am open to other interesting resea
 
 My vision is achieving both pursuing fundamental physics beyond the Standard Model and developing future technologies that will improve people's lives.
 
-Along with my vision, my key experiment has been about generating squeezed states of light. Started from scratch, I tried really hard to achieve it. After many trials and errors, I recently achieved it!
+Along with my vision, my key experiment has been about generating squeezed states of light. Started from scratch, I tried really hard to achieve it. After many trials and errors, I recently achieved it! [_more detail_](/research-experiment/)
 
 In this exciting journey, I've not only accomplished the generation of two-mode squeezed light from rubidium vapor—a first in Korea using atomic vapor—but have also pushed the boundaries of quantum-enhanced electrometry and magnetometry. My efforts in overcoming numerous technical challenges, such as noise reduction and stabilizing laser frequencies, have been instrumental in these breakthroughs.
 
