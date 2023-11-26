@@ -19,7 +19,7 @@ I measured around 6 dB of intensity-difference squeezing, which means the noise 
 
 <figure style="width: 80%" class="align-center">
   <img src="/assets/images/squeezing-2.png" alt="">
-  <figcaption>(left) Geometry of the experiment. (right) Schematic of the double-lambda system.</figcaption>
+  <figcaption>Geometry of the experiment and schematic of the double-lambda system.</figcaption>
 </figure>
 
 <p style="font-size: 24px;">The Process of Generating Squeezed States</p>
