@@ -29,16 +29,16 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-#twitter:
+# twitter:
   username: GisungSim
   card: summary
-#logo: logo.jpg
-#social:
+# logo: logo.jpg
+# social:
   name: Gisung Sim
   links:
-    #- https://twitter.com/ngzhio
-    #- https://www.facebook.com/ngzhio
-    #- https://github.com/ngzhio
+    # - https://twitter.com/ngzhio
+    # - https://www.facebook.com/ngzhio
+    # - https://github.com/ngzhio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 
