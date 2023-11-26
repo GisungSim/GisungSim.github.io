@@ -27,6 +27,10 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
+social:
+  name: Gisung Sim
+  links:
+
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 
