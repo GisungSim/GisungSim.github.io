@@ -5,7 +5,7 @@ avatar: /assets/images/bio-photo.jpg
 email: gsim7854@gmail.com
 
 plugins:
-  - jekyll-seo-tag
+# - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
