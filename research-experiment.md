@@ -9,7 +9,7 @@ published: true
 <p style="font-size: 24px;">The Generation of Squeezed States from Four-Wave Mixing</p>
 
 With hard effort and trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing!
-This was in fact the first accomplishment using atomic vapor in Korea, and the second achievement overall in Korea! (The first overall was at KAIST, but with using spontaneous parametric down-conversion.)
+This was in fact the first accomplishment using atomic vapor, and the second achievement overall in Korea! (The first overall was at KAIST, but with using spontaneous parametric down-conversion.)
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
