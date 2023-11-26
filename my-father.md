@@ -8,7 +8,7 @@ published: true
   <img src="/assets/images/father-1.jpg" alt="">
 </figure>
 
-**Steadfast Guardian: The Resilient Journey of My Father**
+**Steadfast Guardian: The Perseverant Journey of My Father**
 
 My father's life story is a profound testament to the power of dedication and the unwavering pursuit of stability for our family. Born into poverty, with education only up to elementary school, he faced a world with limited opportunities. Yet, he never allowed these challenges to define his journey.
 
