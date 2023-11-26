@@ -8,6 +8,13 @@ published: true
 
 <p style="font-size: 24px;">The Process of Generating Squeezed States</p>
 
+With hard effort and trials and errors, I have successfully generated a two-mode squeezed state of light from four-wave mixing!
+
+
+
+
+<p style="font-size: 24px;">The Process of Generating Squeezed States</p>
+
 In my research, I focused on generating two-mode squeezed light from rubidium vapor – a first using atomic vapor in Korea. The process begins with preparing rubidium atoms in a specific quantum state. We then use precisely controlled lasers to interact with these atoms. During this interaction, the properties of the light (like phase and amplitude) undergo quantum fluctuations, and through careful manipulation, we squeeze these fluctuations in one property while expanding them in the other. This results in a light source with unique quantum properties, ideal for high-precision measurements.
 
 <p style="font-size: 24px;">Overcoming Challenges</p>
