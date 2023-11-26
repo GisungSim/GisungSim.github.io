@@ -15,6 +15,11 @@ Despite these adversities, however, my mother's spirit remained unbroken.
 
 She, alongside her mother and sister, moved to Korea, driven by the hope of a better life—the 'Korean Dream'. But the dream was not without its trials. With limited education, having only completed junior high, she faced jobs that were often undervalued and underpaid. These included working at a factory's assembly line and serving as a dishwasher and waitress. Yet, she never let these experiences define her or dampen her spirit.
 
+<figure style="width: 85%" class="align-center">
+  <img src="/assets/images/mother-2.jpg" alt="">
+  <figcaption>캡션: Winning a prize at the International Korea Beauty Festival 2015 for hair design.</figcaption>
+</figure>
+
 Her resilience is something that deeply inspires me. In a society where Joseonjok people often face discrimination and prejudice, she stood tall and unyielding. Despite speaking with a heavy accent, she worked tirelessly, transcending barriers, to become a licensed hairdresser and eventually the proud owner of her own hair salon. Her journey is a testament to the power of hard work and the belief in oneself.
 
 Her clients adore her, not just for her skills, but for the warmth and acceptance she radiates. This acceptance is something she's instilled in me as well. She taught me the importance of embracing our identities, no matter how different they may be perceived by society. She showed me that often, discrimination stems from ignorance and that understanding and exposure can bridge divides.
