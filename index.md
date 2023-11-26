@@ -8,6 +8,7 @@ My research interests are:
 - Fundamental Physics with Tabletop Experiments
 - Precision Measurement
 - Quantum Metrology
+- Light-Matter Interactions
 - Cavity QED
 - Quantum Simulation and Many-Body Physics
 - and _Their applications_
