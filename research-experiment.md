@@ -10,14 +10,14 @@ published: true
 
 With hard effort and trials and errors, I have successfully generated a two-mode squeezed state of light from four-wave mixing!
 
-<figure style="width: 80%" class="align-center">
+<figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
   <figcaption>(left) Intensity difference squeezing at 100 kHz. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
 </figure>
 
 I measured around 6 dB of intensity-difference squeezing, which means the noise power is suppressed by 75% beyond the standard quantum limit. In our experimental setup, the degree of squeezing has been the maximum at 100 kHz. And the upper limit of the squeezing bandwidth is up to 2 MHz.
 
-<figure style="width: 80%" class="align-center">
+<figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-2.png" alt="">
   <figcaption>Geometry of the experiment and schematic of the double-lambda system.</figcaption>
 </figure>
