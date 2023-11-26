@@ -15,6 +15,12 @@ With hard effort and trials and errors, I have successfully generated a two-mode
   <figcaption>(left) Intensity difference squeezing at 100 kHz. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
 </figure>
 
+I measured around 6 dB of intensity-difference squeezing, which means the noise power is suppressed by 75% beyond the standard quantum limit. In our experimental setup, the degree of squeezing has been the maximum at 100 kHz. And the upper limit of the squeezing bandwidth is up to 2 MHz.
+
+<figure style="width: 80%" class="align-center">
+  <img src="/assets/images/squeezing-2.png" alt="">
+  <figcaption>(left) Geometry of the experiment. (right) Schematic of the double-lambda system.</figcaption>
+</figure>
 
 <p style="font-size: 24px;">The Process of Generating Squeezed States</p>
 
