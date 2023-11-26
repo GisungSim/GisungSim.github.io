@@ -5,6 +5,12 @@ published: true
 ---
 
 <figure style="width: 90%" class="align-center">
+  <img src="/assets/images/KPS-photo.jpg" alt="">
+  <figcaption>Photo of my poster presentation at the largest physics academic conference in Korea!</figcaption>
+</figure>
+
+
+<figure style="width: 90%" class="align-center">
   <img src="/assets/images/KPS-poster.jpg" alt="">
   <figcaption>Poster presentation at the largest physics academic conference in Korea (2023 KPS Fall Meeting).</figcaption>
 </figure>
