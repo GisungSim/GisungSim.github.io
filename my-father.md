@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 permalink: /my-father/
 published: true
 ---
