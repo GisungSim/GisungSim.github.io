@@ -29,22 +29,17 @@ In this experiment, I utilized the double-lambda system of the D1 transition of 
   <figcaption>(left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
 </figure>
 
-<p style="font-size: 24px;">Overcoming Challenges</p>
+<p style="font-size: 24px;">Overcoming Challenges: From Start to the Achievement</p>
 
-The path to this discovery was not straightforward. My lab had never before conducted research on squeezed states, especially using atomic vapor. I encountered numerous challenges – from overwhelming noise in the lab that initially made experiments seem impossible, to issues with laser power, equipment malfunctions, and even fluctuations in the four-wave mixing signal. Each obstacle was a lesson in persistence and innovation. Through rigorous testing, assumption analysis, and problem-solving, I was able to overcome these hurdles.
+<b>Start from scratch: Electronic Noise Reduction</b>
 
-<p style="font-size: 24px;">The Thrill of Discovery</p>
+<b>Laser Power Amplification</b>
 
-The moment we first detected the squeezing signal was a landmark in my career. It was a testament to the power of perseverance and the thrill of pushing the boundaries of quantum physics.
+<b>Frequency Modulation</b>
 
+<b>Beam Filtering</b>
 
-<p style="font-size: 24px;">Why Four-Wave Mixing?</p>
-
-The most general way to generate squeezed states of light is using spontaneous parametric down-conversion (SPDC). Generally, you can achieve very large amounts of quantum noise reduction beyond the standard quantum limit. However, 
-
+<b>Four-Wave Mixing and Phase-Matching Condition</b>
 
 <p style="font-size: 24px;">Looking Ahead</p>
 
-This achievement is not just a personal milestone but a stepping stone to further explorations in quantum-enhanced electrometry, magnetometry, and quantum information with continuous variables.
-
-The journey in quantum optics is not just about overcoming technical challenges; it's about venturing into the unknown and unlocking new possibilities for future technologies. As I continue my research, I am driven by the promise of discovery and the potential to contribute to the prosperity of humanity through quantum technology.
