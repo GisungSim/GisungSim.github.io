@@ -17,7 +17,7 @@ published: true
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/ALTA-poster.jpg" alt="">
-  <figcaption>Poster presentation at the Advanced Lasers and Their Applications 2023 (ALTA 2023). _Awarded Best Student Paper Award_.</figcaption>
+  <figcaption>Poster presentation at the Advanced Lasers and Their Applications 2023 (ALTA 2023). <i>Awarded Best Student Paper Award</i>.</figcaption>
 </figure>
 
 
