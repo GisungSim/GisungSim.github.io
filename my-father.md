@@ -34,4 +34,5 @@ My father is more than just a provider; he is a pillar of strength, a beacon of 
 
 <figure style="width: 50%" class="align-center">
   <img src="/assets/images/father-4.jpg" alt="">
+  <figcaption>Family trip pictures!</figcaption>
 </figure>
