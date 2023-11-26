@@ -22,7 +22,7 @@ She, alongside her mother and sister, moved to Korea, driven by the hope of a be
 </figure>
 
 
-Her resilience is something that deeply inspires me. In a society where Joseonjok people often face discrimination and prejudice, she stood tall and unyielding. Despite speaking with a heavy accent, she worked tirelessly, transcending barriers, to become a licensed hairdresser and eventually the proud owner of her own hair salon. Her journey is a testament to the power of hard work and the belief in oneself.
+Her resilience is something that deeply inspires me. In a society where Joseonjok people often face discrimination and prejudice, she stood tall and unyielding. Despite speaking with a heavy accent, she worked tirelessly, transcending barriers, to become a licensed hairdresser and eventually the proud owner of her own hair salon. Her journey is a testament to the power of hard-working and the belief in oneself.
 
 Her clients adore her, not just for her skills, but for the warmth and acceptance she radiates. This acceptance is something she's instilled in me as well. She taught me the importance of embracing our identities, no matter how different they may be perceived by society. She showed me that often, discrimination stems from ignorance and that understanding and exposure can bridge divides.
 
