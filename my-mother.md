@@ -7,6 +7,7 @@ permalink: /my-mother/
   <img src="/assets/images/mother-1.jpg" alt="">
 </figure>
 
+
 **My Mother: A Pillar of Strength and Resilience**
 
 My mother is not just a parent to me; she is the epitome of resilience and determination. Born into challenging circumstances as a Joseonjok in China, her life was a journey marked by hardship and perseverance. Her grandparents, seeking escape from poverty under Japanese colonial rule, fled to China. But the poverty followed them.
@@ -17,8 +18,9 @@ She, alongside her mother and sister, moved to Korea, driven by the hope of a be
 
 <figure style="width: 85%" class="align-center">
   <img src="/assets/images/mother-2.png" alt="">
-  <figcaption>캡션: Winning a prize at the International Korea Beauty Festival 2015 for hair design.</figcaption>
+  <figcaption>Winning a prize at the International Korea Beauty Festival 2015 for hair design.</figcaption>
 </figure>
+
 
 Her resilience is something that deeply inspires me. In a society where Joseonjok people often face discrimination and prejudice, she stood tall and unyielding. Despite speaking with a heavy accent, she worked tirelessly, transcending barriers, to become a licensed hairdresser and eventually the proud owner of her own hair salon. Her journey is a testament to the power of hard work and the belief in oneself.
 
