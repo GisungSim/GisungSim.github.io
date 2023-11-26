@@ -4,7 +4,7 @@ permalink: /my-mother/
 published: true
 ---
 
-<figure style="width: 85%" class="align-center">
+<figure style="width: 50%" class="align-center">
   <img src="/assets/images/mother-1.jpg" alt="">
 </figure>
 
@@ -31,7 +31,7 @@ My mother's story is not just a narrative of overcoming hardships; it's a lesson
 
 She's my greatest inspiration, a beacon of hope, and a reminder that our circumstances do not define us, but our actions and choices do. Her life is a beautiful illustration of how embracing our uniqueness and working hard can lead to a life of fulfillment and success.
 
-<figure style="width: 40%" class="align-center">
+<figure style="width: 50%" class="align-center">
   <img src="/assets/images/mother-3.jpg" alt="">
   <figcaption>Photo with my mother at my graduation; the moment she longed for, for a long time.</figcaption>
 </figure>
