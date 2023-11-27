@@ -11,9 +11,9 @@ My research interests are:
 - Light-Matter Interactions
 - Cavity QED
 - Quantum Simulation and Many-Body Physics
-- and _Their applications_
+- and _their applications_
 
-But the list of my interest is even longer. I am open to other interesting research areas!
+But the list of my interest is even longer. I am open to other interesting research areas and ideas!
 
 My vision is achieving both pursuing fundamental physics beyond the Standard Model and developing future technologies that will improve people's lives.
 
