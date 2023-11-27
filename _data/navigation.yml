@@ -1,10 +1,3 @@
-- title: My Story
-  url: /my-story/
-  sublinks:
-  - title: My Mother
-    url: /my-mother/
-  - title: My Father
-    url: /my-father/
 - title: Research Experiment
   url: /research-experiment/
 - title: Talks
@@ -16,3 +9,10 @@
     url: /poster-presentations/
 - title: CV
   url: assets/files/Gisung's_CV.pdf
+- title: My Story
+  url: /my-story/
+  sublinks:
+  - title: My Mother
+    url: /my-mother/
+  - title: My Father
+    url: /my-father/
