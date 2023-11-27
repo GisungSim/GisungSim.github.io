@@ -9,6 +9,7 @@ published: true
 <p style="font-size: 24px;">The Generation of Squeezed States from Four-Wave Mixing</p>
 
 With hard effort and trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing!
+
 It was the first accomplishment in Korea that two-mode squeezed light had been generated using atomic vapor, and overall, it was the second such achievement in the country across all methods
 
 <figure style="width: 90%" class="align-center">
@@ -33,6 +34,12 @@ In this experiment, I utilized the double-lambda system of the D1 transition of 
 <p style="font-size: 24px;">Overcoming Challenges: From Start to the Achievement</p>
 
 <b>Start from scratch: Electronic Noise Reduction</b>
+The initial challenge was the significant noise in my lab, which rendered my squeezing experiments virtually infeasible.
+
+<figure style="width: 90%" class="align-center">
+  <img src="/assets/images/squeezing-5.png" alt="">
+  <figcaption>Noise spectra (left) before and (right) after the noise filtering.</figcaption>
+</figure>
 
 <b>Laser Power Amplification</b>
 
