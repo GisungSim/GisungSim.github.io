@@ -19,7 +19,7 @@ She, alongside her mother and sister, moved to Korea, driven by the hope of a be
 
 <figure style="width: 85%" class="align-center">
   <img src="/assets/images/mother-2.png" alt="">
-  <figcaption>Winning a prize at the International Korea Beauty Festival 2015 for hair design.</figcaption>
+  <figcaption>(My mother is right) Winning a prize at the International Korea Beauty Festival 2015 for hair design.</figcaption>
 </figure>
 
 
