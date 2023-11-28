@@ -50,7 +50,7 @@ Combining inductors, ferrite cores, and EMI filters properly, I made my homemade
 <b>Laser Power Amplification</b> <br>
 Since my diode laser emits only 40 mW, I need to amplify the laser power because four-wave mixing in the double-lambda system we utilized requires large detuning so that several mW is required (400 to 700 mW, typlically).
 
-To achieve it, I made and operated a master oscillator power amplifier (MOPA) system with a tapered amplifier.
+To achieve it, I made and operated a master oscillator power amplifier (MOPA) system with a tapered amplifier (with help of an other member, thanks Yejin!)
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-6.png" alt="">
@@ -62,7 +62,7 @@ After the power amplification, the power of the laser beam becomes 1.2 W (from 4
 <b>Frequency Modulation</b>
 But I still need another beam: probe seed, which is red-detuned from the pump (amplified laser source) as shown in Fig. 2. External field (that is, the probe-seed beam) should be injected to stimulate FWM beams to achieve strong quantum correlation between the FWM beams (which named _probe_ and _conjugate_, respectively).
 
-Generally, acousto-optic modulator (AOM) is used for make probe-seed beam 
+Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with good phase-locking between pump and probe-seed. Unfortunately, we don't have AOM having desired frequency shift spec. So I firstly tried to use another laser with phase locking between pump laser (existed laser) and probe-seed laser (new laser). But I wasn't able to make it since we cannot 
 
 <b>Beam Filtering</b>
 
