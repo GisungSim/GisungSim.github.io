@@ -62,13 +62,19 @@ After the power amplification, the power of the laser beam becomes 1.2 W (from 4
 <b>Frequency Modulation</b>
 But I still need another beam: probe seed, which is red-detuned from the pump (amplified laser source) as shown in Fig. 2. External field (that is, the probe-seed beam) should be injected to stimulate FWM beams to achieve strong quantum correlation between the FWM beams (which named _probe_ and _conjugate_, respectively).
 
-Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with good phase-locking between pump and probe-seed. Unfortunately, we don't have AOM having desired frequency shift spec. So I firstly tried to use another laser with phase locking between pump laser (existed laser) and probe-seed laser (new laser). But I wasn't able to make it since we cannot inject external modulation signal into the laser controller.
+Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with good phase-locking between pump and probe-seed. Unfortunately, we don't have AOM having desired frequency shift spec. So I firstly tried to use another laser with phase-locking between pump laser (existed laser) and probe-seed laser (new laser). We succeeded to make lock-in signal but we wasn't able to do PID control since the laser controller did not allow the external modulation signal we made.
+
+<figure style="width: 90%" class="align-center">
+  <img src="/assets/images/squeezing-7.png" alt="">
+  <figcaption>Fig. 5. (left) Fiber EOM I used. (right) EOM output signal taken by Fabry-Perrot interferometer.</figcaption>
+</figure>
 
 Thus we decided to use electro-optic modulator (EOM) and I build setup for EOM and operate it. And I succeeded to make probe-seed beam!
 
 
 
 <b>Four-Wave Mixing and Phase-Matching Condition</b><br>
+Now, every beam is ready. But we must satisfy _phase-matching condition_ to successfully generate the desiring four-wave mixing signals. It is the condition given by both principles: conservation of energy and momentum.
 
 
 <b>Beam Filtering</b><br>
