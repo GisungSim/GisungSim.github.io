@@ -6,7 +6,7 @@ published: true
 
 <p style="font-size: 30px;"><b>Exploring the Quantum Frontier: The Generation of Squeezed States</b></p>
 
-<p style="font-size: 24px;">The Generation of Squeezed States from Four-Wave Mixing</p>
+<p style="font-size: 24px;"><b></b>The Generation of Squeezed States from Four-Wave Mixing</b></p>
 
 With hard effort and trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing with a diode laser!
 
@@ -57,10 +57,10 @@ To achieve it, I made and operated a master oscillator power amplifier (MOPA) sy
   <figcaption>Fig. 5. (left) MOPA system in my setup. (right) Output power after MOPA system.</figcaption>
 </figure>
 
-After the power amplification, the power of the laser beam becomes 1.2 W (from 40 mW). The beam is then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
+After the power amplification, the power of the laser beam becomes 1.2 W (from 40 mW). The beam (which named _pump_) is then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
 
 <b>Frequency Modulation</b>
-But I still need another beam: probe seed, which is red-detuned from the pump (amplified laser source) as shown in Fig. 2. External field (that is, the probe-seed beam) should be injected to stimulate FWM beams to achieve strong quantum correlation between the FWM beams (which named probe and conjugate, respectively).
+But I still need another beam: probe seed, which is red-detuned from the pump (amplified laser source) as shown in Fig. 2. External field (that is, the probe-seed beam) should be injected to stimulate FWM beams to achieve strong quantum correlation between the FWM beams (which named _probe_ and _conjugate_, respectively).
 
 Generally, acousto-optic modulator (AOM) is used for make probe-seed beam 
 
