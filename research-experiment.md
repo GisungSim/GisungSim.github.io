@@ -14,21 +14,21 @@ It was the first accomplishment in Korea that two-mode squeezed light had been g
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
-  <figcaption>(left) Intensity difference squeezing at 100 kHz. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
+  <figcaption>Fig. 1. (left) Intensity difference squeezing at 100 kHz. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
 </figure>
 
 I measured around 6 dB of intensity-difference squeezing, indicating that the noise power is suppressed by 75% beyond the standard quantum limit (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with classical states). In our experimental setup, the highest degree of squeezing occurred at 100 kHz, and the squeezing bandwidth's upper limit reached up to 2 MHz.
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-2.png" alt="">
-  <figcaption>Geometry of the experiment and schematic of the double-lambda system.</figcaption>
+  <figcaption>Fig. 2. Geometry of the experiment and schematic of the double-lambda system.</figcaption>
 </figure>
 
 In this experiment, I utilized the double-lambda system of the D1 transition of <sup>85</sup>Rb. The strong coherence between the two ground states made from this scheme allows us to circumvent fundamental limitations to efficient squeezing, such as spontaneous emission [C. F. McCormick _et al_. PRA 78, 043816 (2008)].
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-3.png" alt="">
-  <figcaption>(left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
+  <figcaption>Fig. 3. (left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
 </figure>
 
 <p style="font-size: 24px;">Overcoming Challenges: From Start to the Achievement</p>
@@ -40,7 +40,7 @@ So my first task was suppressing the environmental (mainly electronic) noise. Fi
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-5.png" alt="">
-  <figcaption>Noise spectra (left) before and (right) after my homemade noise filter!</figcaption>
+  <figcaption>Fig. 4. Noise spectra (left) before and (right) after my homemade noise filter!</figcaption>
 </figure>
 
 Then, I looked for solution of it. And I decided the best resolution is passive noise filters (yes, active noise filter might be better, but I have no time to learn and design it...) Since our interested squeezing bandwidth is from several kHz to MHz and I verified the strong noise source in lower MHz domain, I decided to make noise filter for around 1 MHz (and of course, another reason is that many papers look their squeezed state of light at 1 MHz).
@@ -54,13 +54,13 @@ To achieve it, I made and operated a master oscillator power amplifier (MOPA) sy
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-6.png" alt="">
-  <figcaption>(left) MOPA system in my setup. (right) Output power after MOPA system.</figcaption>
+  <figcaption>Fig. 5. (left) MOPA system in my setup. (right) Output power after MOPA system.</figcaption>
 </figure>
 
 After the power amplification, the power of the laser beam becomes 1.2 W (from 40 mW). The beam is then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
 
 <b>Frequency Modulation</b>
-
+But we still need another beam: probe seed
 
 <b>Beam Filtering</b>
 
