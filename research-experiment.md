@@ -6,7 +6,7 @@ published: true
 
 <p style="font-size: 30px;"><b>Exploring the Quantum Frontier: The Generation of Squeezed States</b></p>
 
-<p style="font-size: 24px;"><b></b>The Generation of Squeezed States from Four-Wave Mixing</b></p>
+<p style="font-size: 24px;"><b>The Generation of Squeezed States from Four-Wave Mixing</b></p>
 
 With hard effort and trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing with a diode laser!
 
