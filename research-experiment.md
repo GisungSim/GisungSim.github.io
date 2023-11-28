@@ -8,9 +8,9 @@ published: true
 
 <p style="font-size: 24px;">The Generation of Squeezed States from Four-Wave Mixing</p>
 
-With hard effort and trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing!
+With hard effort and trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing with a diode laser!
 
-It was the first accomplishment in Korea that two-mode squeezed light had been generated using atomic vapor, and overall, it was the second such achievement in the country across all methods
+It was the first accomplishment in Korea that two-mode squeezed light had been generated using atomic vapor, and overall, it was the second such achievement in the country across all methods!
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
@@ -47,9 +47,20 @@ Then, I looked for solution of it. And I decided the best resolution is passive 
 
 Combining inductors, ferrite cores, and EMI filters properly, I made my homemade filter specialized to my experiment and successfully supressed the noise over 99%!
 
-<b>Laser Power Amplification</b>
+<b>Laser Power Amplification</b> <br>
+Since my diode laser emits only 40 mW, I need to amplify the laser power because four-wave mixing in the double-lambda system we utilized requires large detuning so that several mW is required (400 to 700 mW, typlically).
+
+To achieve it, I made and operated a master oscillator power amplifier (MOPA) system with a tapered amplifier.
+
+<figure style="width: 90%" class="align-center">
+  <img src="/assets/images/squeezing-6.png" alt="">
+  <figcaption>(left) MOPA system in my setup. (right) Output power after MOPA system.</figcaption>
+</figure>
+
+After the power amplification, the power of the laser beam becomes 1.2 W (from 40 mW). The beam is then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
 
 <b>Frequency Modulation</b>
+
 
 <b>Beam Filtering</b>
 
