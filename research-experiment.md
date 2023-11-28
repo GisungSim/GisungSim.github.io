@@ -31,6 +31,8 @@ In this experiment, I utilized the double-lambda system of the D1 transition of 
   <figcaption>Fig. 3. (left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
 </figure>
 
+You may notice the difference between the spatial mode profile of the probe and conjugate beams. I think it comes from the fact that probe is way more close to the resonance (as shown in Fig. 2.) so that it experiences self-focusing and cross-phase modulation while the conjugate, which is far from the resonance, does not.
+
 <p style="font-size: 24px;"><b>Overcoming Challenges: From Start to the Achievement</b></p>
 
 <b>Start from scratch: Over 99% of Electronic Noise Reduction</b><br>
