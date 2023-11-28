@@ -31,7 +31,7 @@ In this experiment, I utilized the double-lambda system of the D1 transition of 
   <figcaption>Fig. 3. (left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
 </figure>
 
-<p style="font-size: 24px;">Overcoming Challenges: From Start to the Achievement</p>
+<p style="font-size: 24px;"><b></b>Overcoming Challenges: From Start to the Achievement</b></p>
 
 <b>Start from scratch: Over 99% of Electronic Noise Reduction</b> <br>
 The initial challenge was the significant noise in my lab, which rendered my squeezing experiments virtually infeasible.
@@ -62,11 +62,17 @@ After the power amplification, the power of the laser beam becomes 1.2 W (from 4
 <b>Frequency Modulation</b>
 But I still need another beam: probe seed, which is red-detuned from the pump (amplified laser source) as shown in Fig. 2. External field (that is, the probe-seed beam) should be injected to stimulate FWM beams to achieve strong quantum correlation between the FWM beams (which named _probe_ and _conjugate_, respectively).
 
-Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with good phase-locking between pump and probe-seed. Unfortunately, we don't have AOM having desired frequency shift spec. So I firstly tried to use another laser with phase locking between pump laser (existed laser) and probe-seed laser (new laser). But I wasn't able to make it since we cannot 
+Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with good phase-locking between pump and probe-seed. Unfortunately, we don't have AOM having desired frequency shift spec. So I firstly tried to use another laser with phase locking between pump laser (existed laser) and probe-seed laser (new laser). But I wasn't able to make it since we cannot inject external modulation signal into the laser controller.
 
-<b>Beam Filtering</b>
+Thus we decided to use electro-optic modulator (EOM) and I build setup for EOM and operate it. And I succeeded to make probe-seed beam!
 
-<b>Four-Wave Mixing and Phase-Matching Condition</b>
+
+
+<b>Four-Wave Mixing and Phase-Matching Condition</b><br>
+
+
+<b>Beam Filtering</b><br>
+
 
 <p style="font-size: 24px;">Looking Ahead</p>
 
