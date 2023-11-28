@@ -31,9 +31,9 @@ In this experiment, I utilized the double-lambda system of the D1 transition of 
   <figcaption>Fig. 3. (left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
 </figure>
 
-<p style="font-size: 24px;"><b></b>Overcoming Challenges: From Start to the Achievement</b></p>
+<p style="font-size: 24px;"><b>Overcoming Challenges: From Start to the Achievement</b></p>
 
-<b>Start from scratch: Over 99% of Electronic Noise Reduction</b> <br>
+<b>Start from scratch: Over 99% of Electronic Noise Reduction</b><br>
 The initial challenge was the significant noise in my lab, which rendered my squeezing experiments virtually infeasible.
 
 So my first task was suppressing the environmental (mainly electronic) noise. Initially, I analyzed the circuit diagram of the detector to verify the noise source. And I realized the detector is particularly vulnerable to the RF electronic noise from the ground (I cannot attach the diagram because of the copyright) since it mainly consisted of many high-pass filters to the ground.
@@ -47,7 +47,7 @@ Then, I looked for solution of it. And I decided the best resolution is passive 
 
 Combining inductors, ferrite cores, and EMI filters properly, I made my homemade filter specialized to my experiment and successfully supressed the noise over 99%!
 
-<b>Laser Power Amplification</b> <br>
+<b>Laser Power Amplification</b><br>
 Since my diode laser emits only 40 mW, I need to amplify the laser power because four-wave mixing in the double-lambda system we utilized requires large detuning so that several mW is required (400 to 700 mW, typlically).
 
 To achieve it, I made and operated a master oscillator power amplifier (MOPA) system with a tapered amplifier (with help of an other member, thanks Yejin!)
@@ -59,7 +59,7 @@ To achieve it, I made and operated a master oscillator power amplifier (MOPA) sy
 
 After the power amplification, the power of the laser beam becomes 1.2 W (from 40 mW). The beam (which named _pump_) is then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
 
-<b>Frequency Modulation</b>
+<b>Frequency Modulation</b><br>
 But I still need another beam: probe seed, which is red-detuned from the pump (amplified laser source) as shown in Fig. 2. External field (that is, the probe-seed beam) should be injected to stimulate FWM beams to achieve strong quantum correlation between the FWM beams (which named _probe_ and _conjugate_, respectively).
 
 Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with good phase-locking between pump and probe-seed. Unfortunately, we don't have AOM having desired frequency shift spec. So I firstly tried to use another laser with phase-locking between pump laser (existed laser) and probe-seed laser (new laser). We succeeded to make lock-in signal but we wasn't able to do PID control since the laser controller did not allow the external modulation signal we made.
