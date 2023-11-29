@@ -68,18 +68,25 @@ Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with g
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-7.png" alt="">
-  <figcaption>Fig. 5. (left) Fiber EOM I used. (right) EOM output signal taken by Fabry-Perrot interferometer.</figcaption>
+  <figcaption>Fig. 6. (left) Fiber EOM I used. (right) EOM output signal taken by Fabry-Perrot interferometer.</figcaption>
 </figure>
 
 Thus we decided to use electro-optic modulator (EOM) and I build setup for EOM and operate it. And I succeeded to make probe-seed beam!
 
-
-
 <b>Four-Wave Mixing and Phase-Matching Condition</b><br>
-Now, every beam is ready. But we must satisfy _phase-matching condition_ to successfully generate the desiring four-wave mixing signals. It is the condition given by both principles: conservation of energy and momentum.
+Now, every beam is ready. But we must satisfy _phase-matching condition_, which comes from both principles: conservation of energy and momentum, to successfully generate the desiring four-wave mixing signals. And energy condition has been satisfied as above. The rest is momentum, that is, _wave vector_.
 
+<figure style="width: 90%" class="align-center">
+  <img src="/assets/images/squeezing-7.png" alt="">
+  <figcaption>Fig. 7.</figcaption>
+</figure>
 
-<b>Beam Filtering</b><br>
+One might expect that the effective phase-matcing condition will be fulfilled at θ=0. However, the probe experiences an effective index of refraction larger than 1 as the probe is close to the resonance so that it experiences many dispersion occur near the resonance. In this situation, the effective phase-matching condition is fulfilled a finite angle θ (≠0) [M. T. Turnull _et al_. PRA 88, 033845 (2013)].
+
+In my experiment, 
+
+<b>Optimization of the Squeezing</b><br>
+
 
 
 <p style="font-size: 24px;">Looking Ahead</p>
