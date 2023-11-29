@@ -92,10 +92,21 @@ In my experiment, it is actually θ≈0.3 (and other papers have had the similar
 
 The length of my cell is 12.5 mm, that is, the length of light-matter interaction is 12.5 mm. To make sure overapping the two beams (pump and probe-seed) along the entire length (otherwise it experiences strong loss), I chose the waist of pump and probe-seed as 550 μm and 330 μm, respectively.
 
+<figure style="width: 90%" class="align-center">
+  <img src="/assets/images/squeezing-7.png" alt="">
+  <figcaption>Fig. 8. Beam profile of four-wave mixing; left, center, right beams are probe, pump, conjugate, respectively.</figcaption>
+</figure>
 
+Thereafter, I successfully generated desired four-wave mixing signals!
 
 <b>Optimization of the Squeezing</b><br>
+Of course, _Nothing Comes Easy_. I wasn't able to measure squeezing signal immediately. There had been many problems such as unexpected reflection and nonlinear phenomenon, pump scattering, significant fluctuation of four-wave mixing signals, cell scattering, to name a few. There have been many setbacks.
 
+But I dealt it step by step, keeping in mind "I'm on the right track!" since I knows Nothing Comes Easy! I learned this during my life, especially from my parents! more detail. And I strongly believe "I will overcome it eventually."
+
+By careful modifying (or, upgrading) my setup, changing the cell, suppress fluctuation of the signals by suppress temperature fluctuation, resolving the cell scattering by implementing new heating system, optimizing phase-matcing condition
+
+Optimized the squeezing by enhancing phase-matching conditions; improved detection efficiency through increasing quantum efficiency; minimized optical loss; and reduced system noise.
 
 
 <p style="font-size: 24px;">Looking Ahead</p>
