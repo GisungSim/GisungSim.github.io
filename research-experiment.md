@@ -78,12 +78,21 @@ Now, every beam is ready. But we must satisfy _phase-matching condition_, which 
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-7.png" alt="">
-  <figcaption>Fig. 7.</figcaption>
+  <figcaption>Fig. 7. Phase-matching condition in my experiment.</figcaption>
 </figure>
 
-One might expect that the effective phase-matcing condition will be fulfilled at θ=0. However, the probe experiences an effective index of refraction larger than 1 as the probe is close to the resonance so that it experiences many dispersion occur near the resonance. In this situation, the effective phase-matching condition is fulfilled a finite angle θ (≠0) [M. T. Turnull _et al_. PRA 88, 033845 (2013)].
+One might expect that the effective phase-matcing condition will be fulfilled at θ＝0 between the pump and probe-seed. However, the probe experiences an effective index of refraction larger than 1 as the probe is close to the resonance so that it experiences many dispersion occur near the resonance. In this situation, the effective phase-matching condition is fulfilled a finite angle θ (≠0) [M. T. Turnull _et al_. PRA 88, 033845 (2013)].
 
-In my experiment, 
+<figure style="width: 90%" class="align-center">
+  <img src="/assets/images/squeezing-7.png" alt="">
+  <figcaption>Fig. 8. Calculation of the phase-matching condition with a simple model (thanks to Heewoo!).</figcaption>
+</figure>
+
+In my experiment, it is actually θ≈0.3 (and other papers have had the similar results).
+
+The length of my cell is 12.5 mm, that is, the length of light-matter interaction is 12.5 mm. To make sure overapping the two beams (pump and probe-seed) along the entire length (otherwise it experiences strong loss), I chose the waist of pump and probe-seed as 550 μm and 330 μm, respectively.
+
+
 
 <b>Optimization of the Squeezing</b><br>
 
