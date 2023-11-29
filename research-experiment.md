@@ -102,7 +102,7 @@ Thereafter, I successfully generated desired four-wave mixing signals!
 <b>Optimization of the Squeezing</b><br>
 Of course, _Nothing Comes Easy_. I wasn't able to measure squeezing signal immediately. There had been many problems such as unexpected reflection and nonlinear phenomenon, pump scattering, significant fluctuation of four-wave mixing signals, cell scattering, to name a few. There have been many setbacks.
 
-But I dealt it step by step, keeping in mind "I'm on the right track!" since I knows Nothing Comes Easy! I learned this during my life, especially from my parents! more detail. And I strongly believe "I will overcome it eventually."
+But I dealt it step by step, keeping in mind "I'm on the right track!" since I knows Nothing Comes Easy! And I know that I will eventually overcome it.
 
 By careful modifying (or, upgrading) my setup, changing the cell, suppress fluctuation of the signals by suppress temperature fluctuation, resolving the cell scattering by implementing new heating system, optimizing phase-matcing condition
 
