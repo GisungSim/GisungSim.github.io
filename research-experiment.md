@@ -68,7 +68,7 @@ Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with g
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-7.png" alt="">
-  <figcaption>Fig. 6. (left) Fiber EOM I used. (right) EOM output signal taken by Fabry-Perrot interferometer.</figcaption>
+  <figcaption>Fig. 6. EOM output signal taken by Fabry-Perrot interferometer.</figcaption>
 </figure>
 
 Thus we decided to use electro-optic modulator (EOM) and I build setup for EOM and operate it. And I succeeded to make probe-seed beam!
@@ -85,7 +85,7 @@ One might expect that the effective phase-matcing condition will be fulfilled at
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-7.png" alt="">
-  <figcaption>Fig. 8. Calculation of the phase-matching condition with a simple model (thanks to Heewoo!).</figcaption>
+  <figcaption>Fig. 8. Calculation of the phase-matching condition with a simple model for hot atomic vapor (thanks to Heewoo!).</figcaption>
 </figure>
 
 In my experiment, it is actually θ≈0.3 (and other papers have had the similar results).
@@ -94,7 +94,7 @@ The length of my cell is 12.5 mm, that is, the length of light-matter interactio
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-7.png" alt="">
-  <figcaption>Fig. 8. Beam profile of four-wave mixing; left, center, right beams are probe, pump, conjugate, respectively.</figcaption>
+  <figcaption>Fig. 9. Beam profile of four-wave mixing; left, center, right beams are probe, pump, conjugate, respectively.</figcaption>
 </figure>
 
 Thereafter, I successfully generated desired four-wave mixing signals!
