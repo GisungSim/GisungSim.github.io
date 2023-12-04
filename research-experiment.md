@@ -100,14 +100,25 @@ The length of my cell is 12.5 mm, that is, the length of light-matter interactio
 Thereafter, I successfully generated desired four-wave mixing signals!
 
 <b>Optimization of the Squeezing</b><br>
-Of course, _Nothing Comes Easy_. I wasn't able to measure squeezing signal immediately. There had been many problems such as unexpected reflection and nonlinear phenomenon, pump scattering, significant fluctuation of four-wave mixing signals, cell scattering, to name a few. There have been many setbacks.
+Of course, _Nothing Comes Easy_. I wasn't able to measure squeezing signal immediately. There had been many problems such as unexpected reflection and nonlinear phenomenon, pump scattering, significant fluctuation of four-wave mixing signals, cell scattering, to name a few. In particular, something not mentioned in papers...
 
 But I dealt it step by step, keeping in mind "I'm on the right track!" since I knows Nothing Comes Easy! And I know that I will eventually overcome it.
 
-By careful modifying (or, upgrading) my setup, changing the cell, suppress fluctuation of the signals by suppress temperature fluctuation, resolving the cell scattering by implementing new heating system, optimizing phase-matcing condition
+By careful modifying (namely, upgrading) my setup, changing the cell, suppress fluctuation of the signals by suppressing temperature fluctuation, resolving the cell scattering by implementing new heating system, optimizing phase-matching condition by fine controlling beam arrangement and shape, by fine tuning of laser frequency, I finally achieved it!
 
-Optimized the squeezing by enhancing phase-matching conditions; improved detection efficiency through increasing quantum efficiency; minimized optical loss; and reduced system noise.
+<figure style="width: 45%" class="align-center">
+  <img src="/assets/images/squeezing-11.png" alt="">
+  <figcaption>Fig. 10. The first squeezing I measured! I cannot forget the moment I measured it... Even my advisor also very excited of it.</figcaption>
+</figure>
 
+This was the first time of generation of squeezed state using atomic vapor in Korea!
+
+Afterwards, I keep going to further optimization of squeezing. I optimized the squeezing by enhancing phase-matching conditions; improved detection efficiency by modifying the detecter with new photodetectors of higher quantum quantum efficiency (85% to 92%); minimized optical loss by filtering pump scattering by polarization, blocking other unwanted optical components, and fine-tuning the cell and setup alignment.
+
+<figure style="width: 45%" class="align-center">
+  <img src="/assets/images/squeezing-12.png" alt="">
+  <figcaption>Fig. 11.</figcaption>
+</figure>
 
 <p style="font-size: 24px;">Looking Ahead</p>
 
