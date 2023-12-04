@@ -66,7 +66,7 @@ But I still need another beam: probe seed, which is red-detuned from the pump (a
 
 Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with good phase-locking between pump and probe-seed. Unfortunately, we don't have AOM having desired frequency shift spec. So I firstly tried to use another laser with phase-locking between pump laser (existed laser) and probe-seed laser (new laser). We succeeded to make lock-in signal but we wasn't able to do PID control since the laser controller did not allow the external modulation signal we made.
 
-<figure style="width: 45%" class="align-center">
+<figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-7.png" alt="">
   <figcaption>Fig. 6. EOM output signal taken by Fabry-Perrot interferometer.</figcaption>
 </figure>
@@ -76,7 +76,7 @@ Thus we decided to use electro-optic modulator (EOM) and I build setup for EOM a
 <b>Four-Wave Mixing and Phase-Matching Condition</b><br>
 Now, every beam is ready. But we must satisfy _phase-matching condition_, which comes from both principles: conservation of energy and momentum, to successfully generate the desiring four-wave mixing signals. And energy condition has been satisfied as above. The rest is momentum, that is, _wave vector_.
 
-<figure style="width: 45%" class="align-center">
+<figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-8.png" alt="">
   <figcaption>Fig. 7. Phase-matching condition in my experiment.</figcaption>
 </figure>
@@ -92,7 +92,7 @@ In my experiment, it is actually θ≈0.3 (and other papers have had the similar
 
 The length of my cell is 12.5 mm, that is, the length of light-matter interaction is 12.5 mm. To make sure overapping the two beams (pump and probe-seed) along the entire length (otherwise it experiences strong loss), I chose the waist of pump and probe-seed as 550 μm and 330 μm, respectively.
 
-<figure style="width: 45%" class="align-center">
+<figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-10.png" alt="">
   <figcaption>Fig. 9. Beam profile of four-wave mixing; left, center, right beams are probe, pump, conjugate, respectively.</figcaption>
 </figure>
@@ -106,7 +106,7 @@ But I dealt it step by step, keeping in mind "I'm on the right track!" since I k
 
 By careful modifying (namely, upgrading) my setup, changing the cell, suppress fluctuation of the signals by suppressing temperature fluctuation, resolving the cell scattering by implementing new heating system, optimizing phase-matching condition by fine controlling beam arrangement and shape, by fine tuning of laser frequency, I finally achieved it!
 
-<figure style="width: 45%" class="align-center">
+<figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-11.png" alt="">
   <figcaption>Fig. 10. The first squeezing I measured! I cannot forget the moment I measured it... Even my advisor also very excited of it.</figcaption>
 </figure>
@@ -115,7 +115,7 @@ This was the first time of generation of squeezed state using atomic vapor in Ko
 
 Afterwards, I keep going to further optimization of squeezing. I optimized the squeezing by enhancing phase-matching conditions; improved detection efficiency by modifying the detecter with new photodetectors of higher quantum quantum efficiency (85% to 92%); minimized optical loss by filtering pump scattering by polarization, blocking other unwanted optical components, and fine-tuning the cell and setup alignment.
 
-<figure style="width: 45%" class="align-center">
+<figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-12.png" alt="">
   <figcaption>Fig. 11.</figcaption>
 </figure>
