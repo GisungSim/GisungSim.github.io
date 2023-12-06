@@ -45,9 +45,9 @@ So my first task was suppressing the environmental (mainly electronic) noise. In
   <figcaption>Fig. 4. Noise spectra (left) before and (right) after my homemade noise filter!</figcaption>
 </figure>
 
-Then, I looked for solution of it. And I decided the best resolution is passive noise filters (yes, active noise filter might be better, but I have no time to learn and design it...) Since our interested squeezing bandwidth is from several kHz to MHz and I verified the strong noise source in lower MHz domain, I decided to make noise filter for around 1 MHz (and of course, another reason is that many papers look their squeezed state of light at 1 MHz).
+Then, I looked for a solution of it. And I decided the best resolution is passive noise filters (yes, active noise filter might be better, but I have no time to learn and design it...) Since our interested squeezing bandwidth is from several kHz to MHz and I verified the strong noise source in lower MHz domain, I decided to make noise filter for around 1 MHz (and of course, another reason is that many papers look their squeezed state of light at 1 MHz).
 
-Combining inductors, ferrite cores, and EMI filters properly, I made my homemade filter specialized to my experiment and successfully supressed the noise over 99%!
+Combining inductors, ferrite cores, and EMI filters properly, I made my homemade filter specialized to my experiment and successfully suppressed the noise by over 99%!
 
 <b>Laser Power Amplification</b><br>
 Since my diode laser emits only 40 mW, I need to amplify the laser power because four-wave mixing in the double-lambda system we utilized requires large detuning so that several mW is required (400 to 700 mW, typlically).
