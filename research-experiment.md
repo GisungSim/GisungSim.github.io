@@ -31,7 +31,9 @@ In this experiment, I utilized the double-lambda system of the D1 transition of 
   <figcaption>Fig. 3. (left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
 </figure>
 
-You may notice the difference between the spatial mode profile of the probe and conjugate beams. I think it comes from the fact that probe is way more close to the resonance (as shown in Fig. 2.) so that it experiences self-focusing and cross-phase modulation while the conjugate, which is far from the resonance, does not.
+During the process of four-wave mixing, two photons of a single pump field are converted into a _pair of photons_, which are called probe and conjugate (Fig.2). Thus, probe-seed field obtain additional photons (but _cross-coupled_ and _jointly amplified_ with conjugate field), which we call _four-wave mixing gain_. Ideally, the degree of squeezing increases as the gain increases. However, there is a _tradeoff_ due to additional noise (mainly probe loss because probe is close to resonance) [M. T. Turnbull _et al_. PRA 88, 033845 (2013)]. Thus, in general, the optimum gain for squeezing ranges between 9-15 and this is true to my experiment (see Fig. 3).
+
+In Fig. 3, you may notice the difference between the spatial mode profile of the probe and conjugate beams. I think it comes from the fact that probe is way more close to the resonance so that it experiences self-focusing and cross-phase modulation while the conjugate, which is far from the resonance, does not.
 
 <p style="font-size: 24px;"><b>Overcoming Challenges: From Start to the Achievement</b></p>
 
