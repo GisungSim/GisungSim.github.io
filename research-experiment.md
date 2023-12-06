@@ -38,7 +38,7 @@ You may notice the difference between the spatial mode profile of the probe and 
 <b>Start from scratch: Over 99% of Electronic Noise Reduction</b><br>
 The initial challenge was the significant noise in my lab, which rendered my squeezing experiments virtually infeasible.
 
-So my first task was suppressing the environmental (mainly electronic) noise. Initially, I analyzed the circuit diagram of the detector to verify the noise source. And I realized the detector is particularly vulnerable to the RF electronic noise from the ground (I cannot attach the diagram because of the copyright) since it mainly consisted of many high-pass filters to the ground.
+So my first task was suppressing the environmental (mainly electronic) noise. Initially, I analyzed the circuit diagram of the detector to verify the noise source. And I realized the detector is particularly vulnerable to the RF electronic noise from the ground (Unfortunately, due to copyright restrictions, I cannot attach the circuit diagram) since it mainly consisted of many high-pass filters to the ground.
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-5.png" alt="">
