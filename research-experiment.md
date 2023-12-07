@@ -21,7 +21,7 @@ I measured 6 dB of intensity-difference squeezing, indicating that the noise pow
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-2.png" alt="">
-  <figcaption>Fig. 2. Geometry of the experiment and schematic of the double-lambda system.</figcaption>
+  <figcaption>Fig. 2. Geometry of my experiment and schematic of the double-lambda system.</figcaption>
 </figure>
 
 In this experiment, I utilized the double-lambda system of the D1 transition of <sup>85</sup>Rb (see Fig.2). The strong coherence between the two ground states made by this scheme allows us to circumvent fundamental limitations to efficient squeezing, such as spontaneous emission [C. F. McCormick _et al_. PRA 78, 043816 (2008)].
