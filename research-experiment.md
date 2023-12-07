@@ -33,7 +33,7 @@ I employed the double-lambda system in the D1 transition of 85Rb for this experi
 
 During the process of four-wave mixing, two photons of a single pump field are converted into a _pair of photons_, termed probe and conjugate (see Fig. 3). Consequently, the probe-seed field obtains additional photons (but _cross-coupled_ and _jointly amplified_ with the conjugate field), which we call _four-wave mixing gain_. Ideally, the degree of squeezing increases with the gain. However, a _tradeoff_ arises due to additional noise, primarily probe loss, as the probe experiences absorption since it is near the atomic resonance [M. T. Turnbull et al. PRA 88, 033845 (2013)]. Thus, in general, the optimum gain for squeezing ranges between 9-15 and this is true in my experiment (see Fig. 3).
 
-In Fig. 3, you may notice the difference between the spatial mode profile of the probe and conjugate beams. I think it comes from the fact that probe is way more close to the resonance so that it experiences self-focusing and cross-phase modulation while the conjugate, which is far from the resonance, does not.
+In Fig. 3, you may notice the difference between the spatial mode profiles of the probe and conjugate beams. I attribute this to the probe being closer to the resonance, leading to self-focusing and cross-phase modulation effects, unlike the conjugate beam, which is far from the resonance.
 
 <p style="font-size: 24px;"><b>Overcoming Challenges: From Start to the Achievement</b></p>
 
