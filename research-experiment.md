@@ -10,7 +10,7 @@ published: true
 
 With hard effort and many trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing with a diode laser!
 
-This marks the first instance in Korea of generating two-mode squeezed light using atomic vapor, and the second such achievement in the country using any method!
+This marks the first instance in Korea of generating two-mode squeezed light using atomic vapor, and the second accomplishment in Korea using any method!
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
