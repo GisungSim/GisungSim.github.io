@@ -17,7 +17,7 @@ This marks the first instance in Korea of generating two-mode squeezed light usi
   <figcaption>Fig. 1. (left) Intensity difference squeezing at 100 kHz. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
 </figure>
 
-I measured around 6 dB of intensity-difference squeezing, indicating that the noise power is suppressed by 75% beyond the standard quantum limit (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with classical states). In our experimental setup, the highest degree of squeezing occurred at 100 kHz, and the squeezing bandwidth's upper limit reached up to 2 MHz.
+I measured 6 dB of intensity-difference squeezing, indicating that the noise power is suppressed by 75% beyond the standard quantum limit (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with "classical" states). In our experimental setup, the highest degree of squeezing occurred at 100 kHz, and the squeezing bandwidth's upper limit reached up to 2 MHz.
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-2.png" alt="">
