@@ -63,12 +63,12 @@ To address this, I constructed and operated a master oscillator power amplifier 
   <figcaption>Fig. 5. (left) MOPA system in my setup. (right) Output power after MOPA system.</figcaption>
 </figure>
 
-After the power amplification, the laser beam's power was increased to 1.2 W (from 40 mW). This beam, named 'pump,' was then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
+After the power amplification, the laser beam's power was increased to 1.2 W (from 40 mW). This beam, named _pump_, was then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
 
 <b>Frequency Modulation</b><br>
-But I still need another beam: probe seed, which is red-detuned from the pump (amplified laser source) as shown in Fig. 2. External field (that is, the probe-seed beam) should be injected to stimulate FWM beams to achieve strong quantum correlation between the FWM beams (which named _probe_ and _conjugate_, respectively).
+I also needed another beam: the probe-seed, which is red-detuned from the pump (the amplified laser source), as shown in Fig. 2. To stimulate FWM beams and achieve strong quantum correlation between the beams (named _probe_ and _conjugate_, respectively), an external field, namely the probe-seed beam, should be injected.
 
-Generally, acousto-optic modulator (AOM) is used for make probe-seed beam with good phase-locking between pump and probe-seed. Unfortunately, we don't have AOM having desired frequency shift spec. So I firstly tried to use another laser with phase-locking between pump laser (existed laser) and probe-seed laser (new laser). We succeeded to make lock-in signal but we wasn't able to do PID control since the laser controller did not allow the external modulation signal we made.
+Typically, an acousto-optic modulator (AOM) is used to create a probe-seed beam in good phase-locking between the pump and probe-seed. Unfortunately, we didn't have an AOM with the necessary frequency shift specifications. So I tried to use another laser and tried to implement phase-locking with the existing pump laser. But we were unable to make error signal since our laser controller was incompatible with the external modulation signal we had created.
 
 <figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-7.png" alt="">
