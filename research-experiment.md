@@ -34,7 +34,7 @@ During the process of four-wave mixing, two photons of a single pump field are c
 
 Ideally, the degree of squeezing increases with the gain. However, there is a _trade-off_ due to additional noise, primarily probe loss, as the probe experiences absorption since it is near the atomic resonance [M. T. Turnbull et al. PRA 88, 033845 (2013)]. Thus, in general, the optimum gain for squeezing ranges between 9-15 and this is true in my experiment (see Fig. 3).
 
-In Fig. 3, you may notice the difference between the spatial modes of the probe and conjugate beams. I attribute this to the probe being closer to the resonance, leading to self-focusing and cross-phase modulation effects, unlike the conjugate beam, which is far from the resonance.
+In Fig. 3, you may notice the difference between the spatial modes of the probe and conjugate beams. I attribute this to the probe being closer to the resonance, leading to self-focusing and cross-phase modulation effects, unlike the conjugate beam, which is far from the resonance. And I verified this assumption by controlling atomic density and the pump power. The pump and probe are focused as the atomic density increses - self-focusing. The probe is moving as the pump power changed - cross-phase modulation.
 
 <p style="font-size: 24px;"><b>Overcoming Challenges: From Start to the Achievement</b></p>
 
