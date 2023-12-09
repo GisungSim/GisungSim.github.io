@@ -3,7 +3,6 @@ layout: home
 permalink: /my-father/
 published: true
 ---
-
 <figure style="width: 50%" class="align-center">
   <img src="/assets/images/father-1.jpg" alt="">
 </figure>
