@@ -21,15 +21,17 @@ This is the photo of my poster presentation at the 2023 KPS Fall Meeting! I'm gr
   <img src="/assets/images/ALTA-poster.jpg" alt="">
 </figure>
 
+Honorably, I awarded _Best Student Paper Award_ here!
 
+<p style="font-size: 20px;"><b>#3. At 34th Annual General Meeting and 2023 Winter Academic Conference</b></p>
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/OSK-poster.jpg" alt="">
-  <figcaption>Poster presentation at the largest optical science academic conference in Korea (34th Annual General Meeting and 2023 Winter Academic Conference).</figcaption>
+</figcaption>
 </figure>
 
+<p style="font-size: 20px;"><b>#4. At 2023 Quantum Sensor ITRC Workshop.</b></p>
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/QSRC-poster.jpg" alt="">
-  <figcaption>Poster presentation at 2023 Quantum Sensor ITRC Workshop.</figcaption>
 </figure>
