@@ -40,9 +40,10 @@ In Fig. 3, you may notice the difference between the spatial modes of the probe 
 <p style="font-size: 24px;"><b>Overcoming Challenges: From Start to the Achievement</b></p>
 
 <b>Start from scratch: Over 99% of Electronic Noise Reduction</b><br>
-The initial challenge was the significant noise in my lab, which rendered my squeezing experiments virtually infeasible.
 
-So my first task was suppressing the environmental (mainly electronic) noise. Initially, I analyzed the circuit diagram of the detector to verify the noise source. And I realized the detector is particularly vulnerable to the RF electronic noise from the ground (Unfortunately, due to copyright restrictions, I cannot attach the circuit diagram) since it mainly consisted of many high-pass filters to the ground.
+The initial challenge in my lab was the significant electronic noise, which rendered my squeezing experiments virtually infeasible.
+
+Therefore, my first task was suppressing the electronic noise. Initially, I analyzed the circuit diagram of the detector to identify the noise source. And I discovered the detector was particularly vulnerable to RF electronic noise from the ground. This vulnerability was mainly due to its design, which consisted of many high-pass filters connected to the ground (due to copyright restrictions, I cannot attach the circuit diagram here).
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-5.png" alt="">
