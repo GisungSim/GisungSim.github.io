@@ -3,11 +3,9 @@ layout: home
 permalink: /my-mother/
 published: true
 ---
-
 <figure style="width: 50%" class="align-center">
   <img src="/assets/images/mother-1.jpg" alt="">
 </figure>
-
 
 **My Mother: A Pillar of Strength and Resilience**
 
