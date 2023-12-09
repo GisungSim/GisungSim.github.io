@@ -85,23 +85,23 @@ Now, every beam is ready. However, to generate the desired four-wave mixing sign
   <figcaption>Fig. 7. Phase-matching condition in my experiment.</figcaption>
 </figure>
 
-One might expect that effective phase-matching condition would be satisfied at θ＝0 of the cross angle between the pump and probe-seed. However, since the probe is close to the resonance and experiences dispersion in this region (see Fig. 7), it encounters an effective index of refraction larger than 1. Consequently, the effective phase-matching condition is fulfilled at a finite angle θ (>0), as evidenced in the study by M. T. Turnbull et al. [PRA 88, 033845 (2013)].
+One might expect that effective phase-matching condition would be satisfied at θ＝0 of the cross angle between the pump and probe-seed. However, since the probe is close to the resonance and experiences dispersion in this region (see Fig. 7), it encounters an effective index of refraction larger than 1. Consequently, the effective phase-matching condition is fulfilled at a finite angle θ (>0), as evidenced in the study by M. T. Turnbull _et al_. [PRA 88, 033845 (2013)].
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-9.png" alt="">
   <figcaption>Fig. 8. Calculation of the phase-matching condition with a simple model for hot atomic vapor (thanks to Heewoo!).</figcaption>
 </figure>
 
-In my experiment, it is actually θ≈0.3 (and other papers have had the similar results).
+In my experiment, this angle was approximately θ ≈ 0.3, a result consistent with similar findings in other papers.
 
-The length of my cell is 12.5 mm, that is, the length of light-matter interaction is 12.5 mm. To make sure overapping the two beams (pump and probe-seed) along the entire length (otherwise it experiences strong loss), I chose the waist of pump and probe-seed as 550 μm and 330 μm, respectively.
+The length of our rubidium cell is 12.5 mm. To ensure overlapping of the two beams (pump and probe-seed) along the entire length (otherwise the probe will experience strong loss), I selected the waist sizes of the pump and probe-seed beams to be 550 μm and 330 μm, respectively.
 
 <figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-10.png" alt="">
   <figcaption>Fig. 9. Beam profile of four-wave mixing; left, center, right beams are probe, pump, conjugate, respectively.</figcaption>
 </figure>
 
-Thereafter, I successfully generated desired four-wave mixing signals!
+Consequently, I successfully generated the desired four-wave mixing beams!
 
 <b>Optimization of the Squeezing</b><br>
 Of course, _Nothing Comes Easy_. I wasn't able to measure squeezing signal immediately. There had been many problems such as unexpected reflection and nonlinear phenomenon, pump scattering, significant fluctuation of four-wave mixing signals, cell scattering, to name a few. In particular, something not mentioned in papers...
