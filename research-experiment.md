@@ -104,18 +104,19 @@ The length of our rubidium cell is 12.5 mm. To ensure overlapping of the two bea
 Consequently, I successfully generated the desired four-wave mixing beams!
 
 <b>Optimization of the Squeezing</b><br>
-Of course, _Nothing Comes Easy_. Initially, I wasn't able to immediately measure the squeezing signal right after I generated twin FWM beams. There were still many problems, including unexpected nonlinear phenomena, significant fluctuations in the four-wave mixing signals, cell window scattering, pump scattering, optical loss, and low quantum efficiency of the detector, to name just a few. Something not mentioned in papers.
+Of course, _Nothing Comes Easy_. Initially, I couldn't immediately measure the squeezing after generating the twin FWM beams. I faced many challenges, such as unexpected nonlinear phenomena, significant fluctuations in the four-wave mixing signals, cell window scattering, pump scattering, optical losses, and low quantum efficiency of the detector, among others – issues often not mentioned in papers.
 
-But I dealt with these problems step by step. Through careful modifications and enhancements of my experimental setup, suppressing the signal fluctuations by stabilizing temperature, resolving cell window scattering by a advanced heating system, filtering pump scattering by polarization filtering and spatial filtering, minimize optical losses by utilizing more suitable optical components and arrangement, and enhanced the quantum efficiency of our detectors by modifying them with high-efficiency photodetectors.
+But I dealt with these problems step by step. Such as implementing modifications and enhancements to my experimental setup, stabilizing temperature to suppress the signal fluctuations, resolving the cell window scattering with an advanced heating system, reducing the pump scattering through polarization and spatial filtering, minimizing the optical losses by using more suitable optical components and arrangements, and enhancing the quantum efficiency of our detectors by modifying them with high-efficiency photodetectors.
 
-Moreover, one another important one was the phase-matching condition to generate squeezing successfully. By optimizing the phase-matching condition by fine-tuning each frequency of pump and probe-seed beams, their spatial arrangement, and other conditions like atomic density, I was eventually able to achieve squeezing!!
+Moreover, another crucial aspect was optimizing the phase-matching condition to successfully generate the squeezed state. By fine-tuning the frequency of each pump and probe-seed beam, adjusting their spatial arrangement and modes, and controlling other parameters like atomic density, I eventually achieved squeezing!!
 
 <figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-11.png" alt="">
   <figcaption>Fig. 10. The first squeezing I measured! I cannot forget the moment I measured it... Even my advisor also very excited of it.</figcaption>
 </figure>
 
-As such, whenever I encounter a problem, I always deal with it step by step, constanly reminding myself, "I'm on the right track!" because I know that nothing comes easy! And I believe myself I will eventually overcome any problems, unless I carry on under any hardship and never give up.
+As such, whenever I encounter a problem, I tackle it methodically, constantly reminding myself, "I'm on the right track!" I firmly believe that persistence and determination will overcome any obstacle, as long as I continue to persevere and never give up.
+
 
 Afterwards, I keep going to further optimization of squeezing. I optimized the squeezing by enhancing phase-matching conditions; improved detection efficiency by modifying the detecter with new photodetectors of higher quantum quantum efficiency (85% to 92%); minimized optical loss by filtering pump scattering by polarization, blocking other unwanted optical components, and fine-tuning the cell and setup alignment.
 
@@ -123,10 +124,6 @@ Afterwards, I keep going to further optimization of squeezing. I optimized the s
   <img src="/assets/images/squeezing-12.png" alt="">
   <figcaption>Fig. 11. Futher optimized squeezing signal.</figcaption>
 </figure>
-
-
-Through careful modifications and upgrades to my setup, changing the cell, minimizing signal fluctuations by stabilizing temperature, resolving cell scattering with a new heating system, optimizing the phase-matching condition by precisely adjusting the beam arrangement and shape, and fine-tuning the laser frequency, I finally achieved my goal!
-
 
 <p style="font-size: 24px;">Looking Ahead</p>
 
