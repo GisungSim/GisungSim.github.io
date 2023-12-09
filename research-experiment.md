@@ -85,7 +85,7 @@ Now, every beam is ready. However, to generate the desired four-wave mixing sign
   <figcaption>Fig. 7. Phase-matching condition in my experiment.</figcaption>
 </figure>
 
-One might expect that the effective phase-matcing condition will be fulfilled at θ＝0 between the pump and probe-seed. However, the probe experiences an effective index of refraction larger than 1 as the probe is close to the resonance so that it experiences many dispersion occur near the resonance. In this situation, the effective phase-matching condition is fulfilled a finite angle θ (≠0) [M. T. Turnull _et al_. PRA 88, 033845 (2013)].
+One might expect that effective phase-matching condition would be satisfied at θ＝0 of the cross angle between the pump and probe-seed. However, since the probe is close to the resonance and experiences dispersion in this region (see Fig. 7), it encounters an effective index of refraction larger than 1. Consequently, the effective phase-matching condition is fulfilled at a finite angle θ (>0), as evidenced in the study by M. T. Turnbull et al. [PRA 88, 033845 (2013)].
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-9.png" alt="">
