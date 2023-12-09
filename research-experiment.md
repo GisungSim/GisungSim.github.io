@@ -75,10 +75,10 @@ Typically, an acousto-optic modulator (AOM) is used to create a probe-seed beam 
   <figcaption>Fig. 6. EOM output signal taken by Fabry-Perrot interferometer.</figcaption>
 </figure>
 
-Thus we decided to use electro-optic modulator (EOM) and I build setup for EOM and operate it. And I succeeded to make probe-seed beam!
+Thus, we decided to use an electro-optic modulator (EOM). I constructed a setup for the EOM and successfully operated it, which enabled me to create the required probe-seed beam.
 
 <b>Four-Wave Mixing and Phase-Matching Condition</b><br>
-Now, every beam is ready. But we must satisfy _phase-matching condition_, which comes from both principles: conservation of energy and momentum, to successfully generate the desiring four-wave mixing signals. And energy condition has been satisfied as above. The rest is momentum, that is, _wave vector_.
+Now, every beam is ready. However, to generate the desired four-wave mixing signals, we must satisfy the _phase-matching condition_, which arises from the principles of conservation of energy and momentum. The energy condition has already been met, as described above. The remaining consideration is momentum, that is, the _wave vector_.
 
 <figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-8.png" alt="">
