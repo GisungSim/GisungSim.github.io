@@ -105,7 +105,7 @@ Consequently, I successfully generated the desired four-wave mixing beams!
 <b>Optimization of the Squeezing</b><br>
 Of course, _Nothing Comes Easy_. Initially, I couldn't immediately measure the squeezing after generating the twin FWM beams. I faced many challenges, such as unexpected nonlinear phenomena, significant fluctuations in the four-wave mixing signals, cell window scattering, pump scattering, optical losses, and low quantum efficiency of the detector, among others – issues often not mentioned in papers.
 
-But I dealt with these problems step by step. Such as implementing modifications and enhancements to my experimental setup, stabilizing temperature to suppress the signal fluctuations, resolving the cell window scattering with an advanced heating system, reducing the pump scattering through polarization and spatial filtering, minimizing the optical losses by using more suitable optical components and arrangements, and enhancing the quantum efficiency of our detectors by modifying them with high-efficiency photodetectors.
+But I dealt with these problems step by step. Such as implementing modifications and enhancements to my experimental setup, stabilizing temperature to suppress the signal fluctuations, resolving the cell window scattering with an advanced heating system, reducing the pump scattering through polarization and spatial filtering, and minimizing the optical losses by using more suitable optical components and arrangements.
 
 Moreover, another crucial aspect was optimizing the phase-matching condition to successfully generate the squeezed state. By fine-tuning the frequency of each pump and probe-seed beam, adjusting their spatial arrangement and modes, and controlling other parameters like atomic density, I eventually achieved squeezing!!
 
@@ -117,7 +117,7 @@ Moreover, another crucial aspect was optimizing the phase-matching condition to 
 As such, whenever I encounter a problem, I tackle it methodically, constantly reminding myself, "I'm on the right track!" I firmly believe that persistence and determination will overcome any obstacle, as long as I continue to persevere and never give up.
 
 
-Afterwards, I keep going to further optimization of squeezing. I optimized the squeezing by enhancing phase-matching conditions; improved detection efficiency by modifying the detecter with new photodetectors of higher quantum quantum efficiency (85% to 92%); minimized optical loss by filtering pump scattering by polarization, blocking other unwanted optical components, and fine-tuning the cell and setup alignment.
+Afterwards, I keep going to further optimize the squeezing. I achieved it by further optimizing the phase-matching conditions; improving detection efficiency by modifying the detector with new photodetectors that have higher quantum efficiency (increased from 85% to 92%); minimizing optical loss by further filtering out pump scattering, blocking other unwanted signals, and fine-tuning the alignment of the setup.
 
 <figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-12.png" alt="">
