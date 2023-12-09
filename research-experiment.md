@@ -40,7 +40,6 @@ In Fig. 3, you may notice the difference between the spatial modes of the probe 
 <p style="font-size: 24px;"><b>Overcoming Challenges: From Start to the Achievement</b></p>
 
 <b>Start from scratch: Over 99% of Electronic Noise Reduction</b><br>
-
 The initial challenge in my lab was the significant electronic noise, which rendered my squeezing experiments virtually infeasible.
 
 Therefore, my first task was suppressing the electronic noise. Initially, I analyzed the circuit diagram of the detector to identify the noise source. And I discovered the detector was particularly vulnerable to RF electronic noise from the ground. This vulnerability was mainly due to its design, which consisted of many high-pass filters connected to the ground (due to copyright restrictions, I cannot attach the circuit diagram here).
@@ -55,16 +54,16 @@ Then, I looked for a solution for the noise issue. I concluded that the best res
 To tailor a solution to my experiment's specific needs, I combined inductors, ferrite cores, and EMI filters properly to construct a homemade filter. This filter was remarkably successful, suppressing the noise over 99%!
 
 <b>Laser Power Amplification</b><br>
-Since my diode laser emits only 40 mW, I need to amplify the laser power because four-wave mixing in the double-lambda system we utilized requires large detuning so that several mW is required (400 to 700 mW, typlically).
+Four-wave mixing in the double-lambda system requires large detuning and typically necessitates high power (over several hundred mW). However, the power of my diode laser was only 40 mW. So amplification system was making essential.
 
-To achieve it, I made and operated a master oscillator power amplifier (MOPA) system with a tapered amplifier (with help of an other member, thanks Yejin!)
+To address this, I constructed and operated a master oscillator power amplifier (MOPA) system with a tapered amplifier (with help of an other member, thanks Yejin!).
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-6.png" alt="">
   <figcaption>Fig. 5. (left) MOPA system in my setup. (right) Output power after MOPA system.</figcaption>
 </figure>
 
-After the power amplification, the power of the laser beam becomes 1.2 W (from 40 mW). The beam (which is named _pump_) is then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
+After the power amplification, the laser beam's power was increased to 1.2 W (from 40 mW). This beam, named 'pump,' was then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
 
 <b>Frequency Modulation</b><br>
 But I still need another beam: probe seed, which is red-detuned from the pump (amplified laser source) as shown in Fig. 2. External field (that is, the probe-seed beam) should be injected to stimulate FWM beams to achieve strong quantum correlation between the FWM beams (which named _probe_ and _conjugate_, respectively).
