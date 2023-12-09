@@ -126,7 +126,8 @@ Afterwards, I keep going to further optimization of squeezing. I optimized the s
 </figure>
 
 <p style="font-size: 24px;">Looking Ahead</p>
+
 My remarkable achievement is now leading to various exciting projects:
-•	Quantum-enhanced electric field sensing with a Rydberg atom
-•	Quantum-enhanced optical magnetometry
-•	Quantum information processing with continuous variables: Covariant quantum measurement of a two-mode squeezed state with dual homodyne detection
+- Quantum-enhanced electric field sensing with a Rydberg atom
+- Quantum-enhanced optical magnetometry
+- Quantum information processing with continuous variables: Covariant quantum measurement of a two-mode squeezed state with dual homodyne detection
