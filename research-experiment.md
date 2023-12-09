@@ -3,7 +3,6 @@ layout: home
 permalink: /research-experiment/
 published: true
 ---
-
 <p style="font-size: 30px;"><b>Beyond the Standard Quantum Limit: The Generation of Squeezed States</b></p>
 
 <p style="font-size: 24px;"><b>The Generation of a Squeezed State from Four-Wave Mixing</b></p>
