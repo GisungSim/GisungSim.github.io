@@ -23,4 +23,4 @@ In line with this vision, my key experiment has involved generating squeezed sta
 This achievement is now leading to various exciting research subjects:
 - Quantum-enhanced electric field sensing with a Rydberg atom
 - Quantum-enhanced optical magnetometry
-- Quantum information with continuous variables
+- Quantum information processing with continuous variables
