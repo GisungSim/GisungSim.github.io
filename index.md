@@ -21,6 +21,6 @@ My vision encompasses both the pursuit of fundamental physics beyond the Standar
 In line with this vision, my key experiment has involved generating squeezed states of light. Starting from scratch, I putted hard efforts to this goal. After overcoming many problems, I have recently succeeded! [more detail](/research-experiment/)
 
 This achievement is now leading to various exciting research subjects:
-- Quantum-enhanced electric field sensing with a Rydberg atom
+- Quantum-enhanced electric field sensing based on a Rydberg atom
 - Quantum-enhanced optical magnetometry
 - Quantum information processing with continuous variables
