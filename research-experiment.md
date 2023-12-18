@@ -13,7 +13,7 @@ This marks the first instance in Korea of generating two-mode squeezed light usi
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
-  <figcaption>Fig. 1. (left) Intensity difference squeezing at 100 kHz. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
+  <figcaption>Fig. 1. (left) Intensity difference squeezing at 100 kHz. Blue line, the standard quantum limit (SQL); red line, the four-wave mixing (FWM), that is, the squeezed state. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
 </figure>
 
 In this experiment, I achieved 6 dB of intensity-difference squeezing. This result indicates a suppression of noise power by 75% beyond the _standard quantum limit_ (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with "classical" states). In my setup, the maximum degree of squeezing was observed at 100 kHz, and the upper limit of the squeezing bandwidth extended to 2 MHz.
@@ -111,7 +111,7 @@ Moreover, another crucial aspect was optimizing the phase-matching condition to 
 
 <figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-11.png" alt="">
-  <figcaption>Fig. 10. The first squeezing I measured! I cannot forget the moment I measured it... Even my advisor also very excited of it.</figcaption>
+  <figcaption>Fig. 10. The first squeezing I measured! (Blue line, the standard quantum limit (SQL); red line, the four-wave mixing (FWM), that is, the squeezed state) I cannot forget the moment I measured it... Even my advisor also very excited of it.</figcaption>
 </figure>
 
 As such, whenever I encounter a problem, I tackle it methodically, constantly reminding myself, "I'm on the right track!" I firmly believe that persistence and determination will overcome any obstacle, as long as I continue to persevere and never give up.
@@ -121,7 +121,7 @@ Afterwards, I keep going to further optimize the squeezing. I achieved it by fur
 
 <figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-12.png" alt="">
-  <figcaption>Fig. 11. Futher optimized squeezing signal.</figcaption>
+  <figcaption>Fig. 11. Futher optimized squeezing signal (Blue line, the standard quantum limit (SQL); red line, the squeezed state (FWM)).</figcaption>
 </figure>
 
 <p style="font-size: 24px;">Looking Ahead</p>
