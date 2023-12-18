@@ -13,7 +13,7 @@ This marks the first instance in Korea of generating two-mode squeezed light usi
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
-  <figcaption>Fig. 1. (left) Intensity difference squeezing at 100 kHz. Blue line, the standard quantum limit (SQL); red line, the four-wave mixing (FWM), that is, the squeezed state. (right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
+  <figcaption>Fig. 1. (Left) Intensity difference squeezing at 100 kHz. Blue line, the standard quantum limit (SQL); red line, the four-wave mixing (FWM), that is, the squeezed state. (Right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
 </figure>
 
 In this experiment, I achieved 6 dB of intensity-difference squeezing. This result indicates a suppression of noise power by 75% beyond the _standard quantum limit_ (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with "classical" states). In my setup, the maximum degree of squeezing was observed at 100 kHz, and the upper limit of the squeezing bandwidth extended to 2 MHz.
@@ -27,7 +27,7 @@ I employed the double-lambda system in the D1 transition of ^85^Rb for this expe
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-3.png" alt="">
-  <figcaption>Fig. 3. (left) Probe transmission profile versus one-photon detuning. (right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
+  <figcaption>Fig. 3. (Left) Probe transmission profile versus one-photon detuning. (Right) Beam profile of the four-wave mixing beams with 6 dB of intensity difference squeezing.</figcaption>
 </figure>
 
 During the process of four-wave mixing, two photons of a single pump field are converted into a _pair of photons_, termed probe and conjugate (see Fig. 3). Consequently, the probe-seed field obtains additional photons (but _cross-coupled_ and _jointly amplified_ with the conjugate field), which we call _four-wave mixing gain_.
@@ -45,7 +45,7 @@ Therefore, my first task was suppressing the electronic noise. Initially, I anal
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-5.png" alt="">
-  <figcaption>Fig. 4. Noise spectra (left) before and (right) after my homemade noise filter!</figcaption>
+  <figcaption>Fig. 4. Noise spectra (Left) before and (Right) after my homemade noise filter!</figcaption>
 </figure>
 
 Then, I looked for a solution for the noise issue. I concluded that the best resolution was to implement passive noise filters. Given that our targeted squeezing bandwidth ranges from several kHz to MHz, and after identifying a strong noise source in the lower MHz domain, I decided to create a noise filter centered around 1 MHz. 
@@ -59,7 +59,7 @@ To address this, I constructed and operated a master oscillator power amplifier 
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-6.png" alt="">
-  <figcaption>Fig. 5. (left) MOPA system in my setup. (right) Output power after MOPA system.</figcaption>
+  <figcaption>Fig. 5. (Left) MOPA system in my setup. (Right) Output power after MOPA system.</figcaption>
 </figure>
 
 After the power amplification, the laser beam's power was increased to 1.2 W (from 40 mW). This beam, named _pump_, was then sent through a single-mode optical fiber to clean up its spatial mode (with 60% of coupling efficiency!).
@@ -88,7 +88,7 @@ One might expect that effective phase-matching condition would be satisfied at �
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-9.png" alt="">
-  <figcaption>Fig. 8. Calculation of the phase-matching condition with a simple model for hot atomic vapor (thanks to Heewoo!).</figcaption>
+  <figcaption>Fig. 8. Calculation for intensity distribution of the phase-matching condition with a simple model for hot atomic vapor (thanks to Heewoo!).</figcaption>
 </figure>
 
 In my experiment, this angle was approximately θ ≈ 0.3, a result consistent with similar findings in other papers.
