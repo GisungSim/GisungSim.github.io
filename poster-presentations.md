@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /poster-presentations/
+permalink: /poster-session/
 published: true
 ---
 <p style="font-size: 20px;"><b>#1. At 2023 KPS Fall Meeting, the largest physics academic conference in Korea</b></p>
