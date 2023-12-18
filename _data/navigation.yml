@@ -3,10 +3,10 @@
 - title: Presentations
   url: /presentations/
   sublinks:
-  - title: oral presentations
-    url: /oral-presentations/
-  - title: poster presentations
-    url: /poster-presentations/
+  - title: oral session
+    url: /oral-session/
+  - title: poster session
+    url: /poster-session/
 - title: CV
   url: assets/files/Gisung's_CV.pdf
 - title: My Story
