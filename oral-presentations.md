@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /oral-presentations/
+permalink: /oral-session/
 published: true
 ---
 <p style="font-size: 20px;"><b>#1. At Optics and Photonics Congress 2023, the largest optical science academic conference in Korea</b></p>
