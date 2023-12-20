@@ -2,7 +2,7 @@
 layout: home
 published: true
 ---
-Welcome to my personal website! I am currently working at the Atomic and Quantum Optics Laboratory at Pusan National University, South Korea.
+Welcome to my personal website! I am currently working at the Quantum Sensors Research Center at Pusan National University, South Korea.
 
 My research interests include:
 - Fundamental Physics with Tabletop Experiments
