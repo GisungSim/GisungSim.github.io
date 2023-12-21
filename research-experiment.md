@@ -88,7 +88,7 @@ One might expect that effective phase-matching condition would be satisfied at �
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-9.png" alt="">
-  <figcaption>Fig. 8. Calculation for intensity distribution of the phase-matching condition with a simple model for hot atomic vapor (thanks to Heewoo!).</figcaption>
+  <figcaption>Fig. 8. Calculation for intensity distribution of the phase-matching condition with a simple model for hot Rubidium vapor (thanks to Heewoo!).</figcaption>
 </figure>
 
 In my experiment, this angle was approximately θ ≈ 0.3, a result consistent with similar findings in other papers.
