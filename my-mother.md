@@ -13,7 +13,7 @@ My mother is not just a parent to me; she is the epitome of resilience and deter
 
 Despite these adversities, however, my mother's spirit remained unbroken.
 
-She, alongside her mother and sister, moved to Korea, driven by the hope of a better life—the 'Korean Dream'. But the dream was not without its trials. With limited education, having only completed junior high, she faced jobs that were often undervalued and underpaid. These included working at a factory's assembly line and serving as a dishwasher and waitress. Yet, she never let these experiences define her or dampen her spirit.
+She, alongside her mother and sister, moved to Korea, driven by the hope of a better life – the 'Korean Dream'. But the dream was not without its trials. With limited education, having only completed junior high, she faced jobs that were often undervalued and underpaid. These included working at a factory's assembly line and serving as a dishwasher and waitress. Yet, she never let these experiences define her or dampen her spirit.
 
 <figure style="width: 85%" class="align-center">
   <img src="/assets/images/mother-2.png" alt="">
