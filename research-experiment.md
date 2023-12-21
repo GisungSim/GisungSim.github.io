@@ -50,7 +50,7 @@ Therefore, my first task was suppressing the electronic noise. Initially, I anal
 
 Then, I looked for a solution for the noise issue. I concluded that the best resolution was to implement passive noise filters. Given that our targeted squeezing bandwidth ranges from several kHz to MHz, and after identifying a strong noise source in the lower MHz domain, I decided to create a noise filter centered around 1 MHz. 
 
-To tailor a solution to my experiment's specific needs, I combined inductors, ferrite cores, and EMI filters properly to construct a homemade filter. This filter was remarkably successful, suppressing the noise over 99%!
+To tailor a solution to my experiment's specific needs, I properly construct a customized homemade filter. This filter was remarkably successful, suppressing the noise over 99%!
 
 <b>Laser Power Amplification</b><br>
 Four-wave mixing in the double-lambda system requires large detuning and typically necessitates high power (over several hundred mW). However, the power of my diode laser was only 40 mW. So amplification system was making essential.
