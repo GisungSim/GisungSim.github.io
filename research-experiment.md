@@ -126,7 +126,7 @@ Afterwards, I keep going to further optimize the squeezing. I achieved it by fur
 
 <p style="font-size: 24px;">Looking Ahead</p>
 
-My remarkable achievement is now leading to various exciting projects:
-- Quantum-enhanced electric field sensing with a Rydberg atom
+My achievement paves the way for subsequent applications in quantum sensing and quantum information processing. My current research includes various exciting projects:
+- Quantum-enhanced electric field sensing based on a Rydberg atom
 - Quantum-enhanced optical magnetometry
 - Quantum information processing with continuous variables: Covariant quantum measurement of a two-mode squeezed state with dual homodyne detection
