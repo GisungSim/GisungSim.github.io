@@ -30,7 +30,7 @@ Honorably, I awarded _Best Student Paper Award_ here!
 </figcaption>
 </figure>
 
-<p style="font-size: 20px;"><b>#4. At 2023 Quantum Sensor ITRC Workshop.</b></p>
+<p style="font-size: 20px;"><b>#4. At the 2023 Quantum Sensor ITRC Workshop.</b></p>
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/QSRC-poster.jpg" alt="">
