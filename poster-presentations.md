@@ -3,7 +3,7 @@ layout: home
 permalink: /poster-session/
 published: true
 ---
-<p style="font-size: 20px;"><b>#1. At 2023 KPS Fall Meeting, the largest physics academic conference in Korea</b></p>
+<p style="font-size: 20px;"><b>#1. At the 2023 KPS Fall Meeting, the largest physics academic conference in Korea</b></p>
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/KPS-photo.jpg" alt="">
@@ -23,7 +23,7 @@ This is the photo of my poster presentation at the 2023 KPS Fall Meeting! I'm gr
 
 Honorably, I awarded _Best Student Paper Award_ here!
 
-<p style="font-size: 20px;"><b>#3. At 34th Annual General Meeting and 2023 Winter Academic Conference</b></p>
+<p style="font-size: 20px;"><b>#3. At the 34th Annual General Meeting and 2023 Winter Academic Conference</b></p>
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/OSK-poster.jpg" alt="">
