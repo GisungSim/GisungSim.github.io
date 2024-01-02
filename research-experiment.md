@@ -45,7 +45,7 @@ Therefore, my first task was suppressing the electronic noise. Initially, I anal
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-5.png" alt="">
-  <figcaption>Fig. 4. Noise spectra (Left) before and (Right) after my homemade noise filter!</figcaption>
+  <figcaption>Fig. 4. Noise spectra (Left) before and (Right) after my homemade noise filter! (SA noise, the noise from the spectrum analyzer itself; electronic noise, the signal when no light is put into the detector.)</figcaption>
 </figure>
 
 Then, I looked for a solution for the noise issue. I concluded that the best resolution was to implement passive noise filters. Given that our targeted squeezing bandwidth ranges from several kHz to MHz, and after identifying a strong noise source in the lower MHz domain, I decided to create a noise filter centered around 1 MHz. 
