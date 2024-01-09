@@ -5,7 +5,7 @@ published: true
 Welcome to my personal website! I am currently working at the Quantum Sensors Research Center at Pusan National University, South Korea.
 
 My research interests include:
-- Fundamental Physics with Tabletop Experiments
+- Fundamental Physics
 - Precision Measurement
 - Quantum Metrology and Sensing
 - Light-Matter Interactions
