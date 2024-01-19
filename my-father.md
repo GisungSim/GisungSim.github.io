@@ -23,7 +23,7 @@ This job, which many might overlook, has been instrumental in achieving a milest
 
 My father's journey, marked by hardships and setbacks, is a narrative of unwavering hope and perseverance. Even when faced with profound losses, like all his hard-earned savings taken by a relative never to be returned, he pressed on, never succumbing to despair. His strength in these moments of adversity is a powerful reminder of the human spirit's resilience.
 
-He has shown me the true value of hard work and dedication. Waking up at 2 AM to start his workday by 3 AM, he has never taken a day off, embodying a work ethic that is nothing short of inspiring. Through his actions, he has taught me that steadfast commitment and a strong will can create a foundation of stability and security, even in the most challenging circumstances.
+He has shown me the true value of hard work and dedication. Waking up at 2 AM to start his workday by 3 AM, he has never taken a day off, embodying a work ethic that is nothing short of inspiring. Through his actions, he has taught me that steadfast commitment and a strong will can create everything, even in the most challenging circumstances.
 
 My father is more than just a provider; he is a pillar of strength, a beacon of hope, and a living example of how perseverance can transform the trials of life into triumphs. His life story is not just a narrative of survival but an enduring lesson on the power of resilience and the unyielding pursuit of a better life for those you love.
 
