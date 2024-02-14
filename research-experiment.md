@@ -121,7 +121,7 @@ Afterwards, I keep going to further optimize the squeezing. I achieved it by fur
 
 <figure style="width: 55%" class="align-center">
   <img src="/assets/images/squeezing-12.png" alt="">
-  <figcaption>Fig. 11. Futher optimized squeezing signal (Blue line, the standard quantum limit (SQL); red line, the squeezed state (FWM)).</figcaption>
+  <figcaption>Fig. 11. Futher optimized squeezing signal (Blue line, the standard quantum limit (SQL); red line, the squeezed state (FWM)). The noise peak near 1.8 MHz is from the probe-seed's technical noise (originated from power stabilizer).</figcaption>
 </figure>
 
 <p style="font-size: 24px;">Looking Ahead</p>
