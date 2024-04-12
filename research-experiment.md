@@ -9,11 +9,11 @@ published: true
 
 With hard effort and many trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing with a diode laser!
 
-In this experiment, I achieved 7.9 dB of intensity-difference squeezing. To the best of our knowledge, this is the best record of squeezing in a similar system, as well as the first squeezed state using atomic vapor in South Korea!
+In this experiment, I achieved over 7.9 dB of intensity-difference squeezing. To the best of our knowledge, this is the best record of squeezing in a similar system, as well as the first squeezed state using atomic vapor in South Korea!
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
-  <figcaption>Fig. 1. (Left) Intensity difference squeezing at 100 kHz. Blue line, the standard quantum limit (SQL); red line, the four-wave mixing (FWM), that is, the squeezed state. (Right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
+  <figcaption>Fig. 1. (Left) Noise spectra for the electronic (background) noise (black), the pump scattering (gray), the standard quantum limit (blue), and the intensity-difference squeezing taken by balanced detection between four-wave mixing twin beams (red). (Right) Noise power versus total optical power at 150 kHz.</figcaption>
 </figure>
 
 This result indicates a suppression of noise power by 84% beyond the _standard quantum limit_ (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with "classical" states). In my setup, the maximum degree of squeezing was observed around 100-500 kHz, and the upper limit of the squeezing bandwidth extended to over 3 MHz.
@@ -117,12 +117,8 @@ Moreover, another crucial aspect was optimizing the phase-matching condition to 
 As such, whenever I encounter a problem, I tackle it methodically, constantly reminding myself, "I'm on the right track!" I firmly believe that persistence and determination will overcome any obstacle, as long as I continue to persevere and never give up.
 
 
-Afterwards, I keep going to further optimize the squeezing. I achieved it by further optimizing the phase-matching conditions; improving detection efficiency by modifying the detector with new photodetectors that have higher quantum efficiency (increased from 85% to 92%); minimizing optical loss by further filtering out pump scattering, blocking other unwanted signals, and fine-tuning the alignment of the setup.
+Afterwards, I keep going to further optimize the squeezing. I achieved it by further optimizing the phase-matching conditions; improving detection efficiency by modifying the detector with new photodetectors that have higher quantum efficiency (increased from 85% to 92%); minimizing optical loss by further filtering out pump scattering, blocking other unwanted signals, and fine-tuning the alignment of the setup. The optimized result is as shown in Fig. 1.
 
-<figure style="width: 55%" class="align-center">
-  <img src="/assets/images/squeezing-12.png" alt="">
-  <figcaption>Fig. 11. Futher optimized squeezing signal (Blue line, the standard quantum limit (SQL); red line, the squeezed state (FWM)). The noise peak near 1.8 MHz is from the probe-seed's technical noise (originated from power stabilizer).</figcaption>
-</figure>
 
 <p style="font-size: 24px;">Looking Ahead</p>
 
