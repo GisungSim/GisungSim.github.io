@@ -9,14 +9,14 @@ published: true
 
 With hard effort and many trials, I have successfully generated a two-mode squeezed state of light via four-wave mixing with a diode laser!
 
-And this was the first squeezed state using atomic vapor in South Korea!
+In this experiment, I achieved 7.9 dB of intensity-difference squeezing. To the best of our knowledge, this is the best record of squeezing in a similar system, as well as the first squeezed state using atomic vapor in South Korea!
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
   <figcaption>Fig. 1. (Left) Intensity difference squeezing at 100 kHz. Blue line, the standard quantum limit (SQL); red line, the four-wave mixing (FWM), that is, the squeezed state. (Right) Intensity-difference noise versus total optical power at 100 kHz.</figcaption>
 </figure>
 
-In this experiment, I achieved 6 dB of intensity-difference squeezing. This result indicates a suppression of noise power by 75% beyond the _standard quantum limit_ (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with "classical" states). In my setup, the maximum degree of squeezing was observed around 100-500 kHz, and the upper limit of the squeezing bandwidth extended to 2 MHz.
+This result indicates a suppression of noise power by 84% beyond the _standard quantum limit_ (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with "classical" states). In my setup, the maximum degree of squeezing was observed around 100-500 kHz, and the upper limit of the squeezing bandwidth extended to over 3 MHz.
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-2.png" alt="">
