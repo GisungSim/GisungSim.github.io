@@ -13,7 +13,7 @@ In this experiment, I achieved over 7.9 dB of intensity-difference squeezing. To
 
 <figure style="width: 90%" class="align-center">
   <img src="/assets/images/squeezing-1.png" alt="">
-  <figcaption>Fig. 1. (Left) Noise spectra for the electronic (background) noise (black), the pump scattering (gray), the standard quantum limit (blue), and the intensity-difference squeezing taken by balanced detection between four-wave mixing twin beams (red). (Right) Noise power versus total optical power at 150 kHz.</figcaption>
+  <figcaption>Fig. 1. (Left) Noise spectra for the electronic (background) noise (black), the pump scattering (gray), the standard quantum limit (blue), and the intensity-difference squeezing taken by balanced detection between four-wave mixing twin beams (red). (Right) Intensity-difference noise power versus total optical power at 150 kHz of center frequency. RBW: 30 kHz, VBW: 300 Hz.</figcaption>
 </figure>
 
 This result indicates a suppression of noise power by 84% beyond the _standard quantum limit_ (a limit on measurement accuracy at quantum scales; or the maximum measurement accuracy achievable with "classical" states). In my setup, the maximum degree of squeezing was observed around 100-500 kHz, and the upper limit of the squeezing bandwidth extended to over 3 MHz.
