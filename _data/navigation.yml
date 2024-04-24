@@ -9,10 +9,10 @@
     url: /poster-session/
 - title: Updated CV
   url: assets/files/Gisung_CV.pdf
-- title: Personal Story
-  url: /my-story/
-  sublinks:
-  - title: A Pillar of Strength and Resilience
-    url: /my-mother/
-  - title: The Perseverant Journey of My Father
-    url: /my-father/
+#- title: Personal Story
+#  url: /my-story/
+#  sublinks:
+#  - title: A Pillar of Strength and Resilience
+#    url: /my-mother/
+#  - title: The Perseverant Journey of My Father
+#    url: /my-father/
