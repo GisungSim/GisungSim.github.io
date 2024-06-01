@@ -2,7 +2,7 @@
 layout: post
 title: "Intro"
 categories: physics
-Tags:[physics]
+tags: physics
 ---
 
 <p style="font-size: 30px;"><b>Beyond the Standard Quantum Limit: The Generation of Squeezed States</b></p>
