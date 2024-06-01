@@ -3,11 +3,9 @@ title: "Codewars 문제풀기"
 excerpt: "Credit Card"
 classes: wide
 categories:
- - codewars
+ - physics
 tags:
- - java
- - codewars
- - coding-test
+ - physics
 last_modified_at : 2020-04-08
 ---
 
