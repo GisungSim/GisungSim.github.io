@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Some articles are just so long they deserve a really long title to see if things will break well"
-categories: Physics
-Tags: Physics
+categories: physics
+Tags: physics
 ---
 
 <p style="font-size: 30px;"><b>Beyond the Standard Quantum Limit: The Generation of Squeezed States</b></p>
