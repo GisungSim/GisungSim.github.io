@@ -16,5 +16,3 @@ My long-term academic goals encompass:
 1.	Exploring New Physics Beyond the Standard Model: Direct experiments on the quantum nature of gravity, dark matter and dark energy, and new physics beyond the Standard Model.
 2.	Studying Light-Matter Interactions: Investigate strong interactions between matter and light, quantum simulation, and quantum many-body physics.
 3.	Paving the Way for Future Technologies: Develop advanced quantum sensors, quantum imaging techniques, and quantum information processing.
-
-word-break:keep-all; text-align:justify;
