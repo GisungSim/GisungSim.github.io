@@ -6,7 +6,7 @@ published: true
 <p style="font-size: 30px;"><b>Welcome to my personal website!</b></p>
 <p align="justify">I am currently working at the Quantum Sensors Research Center at Pusan National University, South Korea.</p>
 
-What is my purpose in life? After deep contemplation, I have come to the conclusion that striving to understand the nature in which I exist holds the greatest meaning for me. Additionally, if I can contribute to expanding the scope of human consciousness and bettering our world in the process, that would be incredibly fulfilling.
+<p align="justify">What is my purpose in life? After deep contemplation, I have come to the conclusion that striving to understand the nature in which I exist holds the greatest meaning for me. Additionally, if I can contribute to expanding the scope of human consciousness and bettering our world in the process, that would be incredibly fulfilling.</p>
 
 This prospect excites me and gives me a strong reason to wake up every morning with enthusiasm. I want to live for this purpose, and I believe that the role of a physicist is ideally suited for achieving these goals.
 
