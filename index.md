@@ -14,6 +14,6 @@ published: true
 <p align="justify">In my pursuit, I find experimental physics to be the most direct way to engage with nature and seek answers. And, as I previously stated, my deep fascination lies in tabletop experiments. However, I am also enthusiastic about studying and embracing theoretical approaches to enrich my understanding of physics further.</p>
 
 <p style="font-size: 24px;"><b>My long-term academic goals</b></p>
-<p align="justify">1.	Exploring New Physics Beyond the Standard Model: Direct experiments on the quantum nature of gravity, dark matter and dark energy, and new physics beyond the Standard Model.
-2.	Studying Light-Matter Interactions: Investigate strong interactions between matter and light, quantum simulation, and quantum many-body physics.
-3.	Paving the Way for Future Technologies: Develop advanced quantum sensors, quantum imaging techniques, and quantum information processing.</p>
+-<p align="justify">Exploring New Physics Beyond the Standard Model: Direct experiments on the quantum nature of gravity, dark matter and dark energy, and new physics beyond the Standard Model.</p>
+-<p align="justify">Studying Light-Matter Interactions: Investigate strong interactions between matter and light, quantum simulation, and quantum many-body physics.</p>
+-<p align="justify">Paving the Way for Future Technologies: Develop advanced quantum sensors, quantum imaging techniques, and quantum information processing.</p>
