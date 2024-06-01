@@ -2,7 +2,9 @@
 layout: home
 published: true
 ---
-Welcome to my personal website! I am currently working at the Quantum Sensors Research Center at Pusan National University, South Korea.
+
+<p style="font-size: 30px;"><b>Welcome to my personal website!</b></p>
+<p align="justify">I am currently working at the Quantum Sensors Research Center at Pusan National University, South Korea.</p>
 
 What is my purpose in life? After deep contemplation, I have come to the conclusion that striving to understand the nature in which I exist holds the greatest meaning for me. Additionally, if I can contribute to expanding the scope of human consciousness and bettering our world in the process, that would be incredibly fulfilling.
 
