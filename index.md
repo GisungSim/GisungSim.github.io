@@ -4,23 +4,13 @@ published: true
 ---
 Welcome to my personal website! I am currently working at the Quantum Sensors Research Center at Pusan National University, South Korea.
 
-My research interests include:
-- Fundamental Physics
-- Precision Measurement
-- Quantum Metrology and Sensing
-- Light-Matter Interactions
-- Cavity QED
-- Quantum Simulation and Many-Body Physics
-- and _their applications_
+What is my purpose in life? After deep contemplation, I have come to the conclusion that striving to understand the nature in which I exist holds the greatest meaning for me. Additionally, if I can contribute to expanding the scope of human consciousness and bettering our world in the process, that would be incredibly fulfilling.
 
-But the list of my interest is even longer. I am open to exploring other fascinating research areas and ideas!
+This prospect excites me and gives me a strong reason to wake up every morning with enthusiasm. I want to live for this purpose, and I believe that the role of a physicist is ideally suited for achieving these goals.
 
+In my pursuit, I find experimental physics to be the most direct way to engage with nature and seek answers. And, as I previously stated, my deep fascination lies in tabletop experiments. However, I am also enthusiastic about studying and embracing theoretical approaches to enrich my understanding of physics further.
 
-My vision encompasses both the pursuit of fundamental physics beyond the Standard Model and the development of future technologies that can improve people's lives in various fields.
-
-In line with this vision, my key experiment has involved generating squeezed states of light. Starting from scratch, I putted hard efforts to this goal. After overcoming many problems, I have recently succeeded! [more detail](/research-experiment/)
-
-This achievement is now leading to various exciting research subjects:
-- Quantum-Enhanced Electric Field Sensing Based on a Rydberg Atom
-- Quantum-Enhanced Optical Magnetometry
-- Quantum Information Processing with Continuous Variables
+My long-term academic goals encompass:
+1.	Exploring New Physics Beyond the Standard Model: Direct experiments on the quantum nature of gravity, dark matter and dark energy, and new physics beyond the Standard Model.
+2.	Studying Light-Matter Interactions: Investigate strong interactions between matter and light, quantum simulation, and quantum many-body physics.
+3.	Paving the Way for Future Technologies: Develop advanced quantum sensors, quantum imaging techniques, and quantum information processing.
