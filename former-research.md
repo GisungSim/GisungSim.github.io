@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /research/former-research/
+permalink: /former-research/
 published: true
 ---
 <p style="font-size: 30px;"><b>Beyond the Standard Quantum Limit: The Generation of Squeezed States</b></p>
