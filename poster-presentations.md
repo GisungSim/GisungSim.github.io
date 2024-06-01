@@ -22,16 +22,3 @@ This is the photo of my poster presentation at the 2023 KPS Fall Meeting! I'm gr
 </figure>
 
 Honorably, I awarded _Best Student Paper Award_ here!
-
-<p style="font-size: 20px;"><b>#3. At the 34th Annual General Meeting and 2023 Winter Academic Conference</b></p>
-
-<figure style="width: 90%" class="align-center">
-  <img src="/assets/images/OSK-poster.jpg" alt="">
-</figcaption>
-</figure>
-
-<p style="font-size: 20px;"><b>#4. At the 2023 Quantum Sensor ITRC Workshop.</b></p>
-
-<figure style="width: 90%" class="align-center">
-  <img src="/assets/images/QSRC-poster.jpg" alt="">
-</figure>
